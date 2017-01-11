@@ -14,7 +14,7 @@
 
 ## Framing:
 
-We know that you likely don’t know yet what you want to do or where to even begin with your resume, that’s ok! Our goal today is to show you what success looks like, and to get your content into a draft that you can continue to work on
+We know that you likely don’t know yet what you want to do or where to even begin with your resume; that’s okay! Our goal today is to show you what success looks like, and to get your content into a draft that you can continue to work on.
 
 ## I do:
 
@@ -88,7 +88,7 @@ Three-month, 500-hour full-time and full-stack web development program providing
 
 **UXDI**
 
-Full time immersive User Experience Design program that included over 500 hours of professional training over ten weeks. Utilized a hands-on approach to practice user-centered design methods, design thinking skills, team collaboration, and client relations. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
+Full-time immersive User Experience Design program that included over 500 hours of professional training over ten weeks. Utilized a hands-on approach to practice user-centered design methods, design thinking skills, team collaboration, and client relations. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
 
 **DSI**
 
