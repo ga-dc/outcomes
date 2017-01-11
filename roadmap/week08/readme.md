@@ -28,7 +28,7 @@ Must haves:
 
 * Initial page pulls them in for more information, create a tease so they want more
 
-* Projects: Screenshot,
+* Projects: Screenshot, links
 
 * About page: Headshot, short description (brand statement + a bit more), contact information, and link to resume
 
@@ -50,7 +50,7 @@ Login at [http://profiles.generalassemb.ly/profiles/new](http://profiles.general
 
 ## Remainder of class:
 
-Create your draft GA Profile and time to meet 1:1 with your coach
+Create your draft GA Profile and time to meet 1:1 with your coach.
 
 ## Further Reading/ Resources:
 
