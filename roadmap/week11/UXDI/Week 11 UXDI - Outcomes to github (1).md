@@ -8,17 +8,17 @@
 
 ## Framing: 
 
-The Portfolio Review is an opportunity for you to get first hand experience sharing your work and showing off everything you have worked so hard for with GA! We do not expect you to have a perfect portfolio at this time, however, remember that you will be meeting 1 on1 with people who could hire you! Be prepared to discuss your work, your plans for completing any unfinished pieces, and most importantly your process.
+The Portfolio Review is an opportunity for you to get firsthand experience sharing your work and showing off everything you have worked so hard for with GA! We do not expect you to have a perfect portfolio at this time; however, remember that you will be meeting 1 on 1 with people who could hire you! Be prepared to discuss your work, your plans for completing any unfinished pieces, and most importantly your process.
 
 ## Format: 
 
 The format will be speed dating style where you’ll have the chance to talk one-on-one with a leading UX designer. 
 
-We’ll break the class in half and each half of the class will meet with the reviewers for 1 hour. Please be on time for your session and when you are not being reviewed please don’t be in the room. 
+We’ll break the class in half and each half of the class will meet with the reviewers for 1 hour. Please be on time for your session, and when you are not being reviewed please don’t be in the room. 
 
 ## Happy Hour 
 
-After the portfolio review we’ll have a happy hour with all reviewers and all students. This will give you a chance to talk with anyone you didn’t meet with or to have a more in-depth conversation with the people you did. Don’t be shy, they all want to hear from you! 
+After the portfolio review, we’ll have a happy hour with all reviewers and all students. This will give you a chance to talk with anyone you didn’t meet with or to have a more in-depth conversation with the people you did. Don’t be shy; they all want to hear from you! 
 
 ## Further Reading/ Resources: 
 
