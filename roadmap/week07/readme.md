@@ -224,7 +224,8 @@ Open discussion - what worked/what didn’t. What do we need to practice moving 
 
 [99U: 5 Real-Life Salary Negotiations (And What You Can Learn From Them)](http://99u.com/articles/52075/5-real-life-salary-negotiations-and-what-you-can-learn-from-them?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%2011/22/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
 
-**Interviewing: Best Practices: Etiquette & Tips**
+**Interviewing:**
+**Best Practices: Etiquette & Tips**
 
 * Bring your computer fully charged and with everything already loaded. Make sure it’s clean (literally and figuratively).  Don’t rely on an internet connection.
 
