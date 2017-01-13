@@ -8,7 +8,7 @@
 #### [Communicating with Outcomes](https://github.com/ga-dc/outcomes/blob/master/communicating-with-outcomes.md)
 ## Curriculum 
 #### [Outcomes Roadmap](https://github.com/ga-dc/outcomes/tree/master/roadmap)
-- [week 1]()
+- [week 1](https://github.com/ga-dc/outcomes/tree/master/roadmap/week01)
 - [week 2](https://github.com/ga-dc/outcomes/tree/master/roadmap/week02)
 - [week 3](https://github.com/ga-dc/outcomes/tree/master/roadmap/week03)
 - [week 4](https://github.com/ga-dc/outcomes/tree/master/roadmap/week04)
