@@ -12,9 +12,11 @@
 
 ## Framing:
 
-Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills.But how do you promote your brand and talents? Don’t worry, we’ve got you covered!  We will show you how to explain yourself and your talents in a compelling and interesting way so that your brand doesn’t get lost in translation.
+Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills.
 
-**Format:** 
+But how do you promote your brand and talents? Don’t worry, we’ve got you covered!  We will show you how to explain yourself and your talents in a compelling and interesting way so that your brand doesn’t get lost in translation.
+
+## Format: 
 
 Guest presenter Mike Gardner will take you through an interactive workshop to answer these questions.
 
