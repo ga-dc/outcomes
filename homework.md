@@ -1,6 +1,6 @@
 # Outcomes Homework
 
-- Homework will take more time for some, and less time for others. It is up to you how you want to partition your time for a given exercise.
+- Homework will follow the exact same requirements and format as your in-class homework. You will always have competing pressure to complete outcomes work or your classwork. Manage your time effectively and use allocated outcomes work time wisely! 
 
 - Turn in **something**. Turning in an incomplete assignment is **infinitely** better than turning in nothing at all. We can't get you the help you need unless we see what you're working on. That said...
 
@@ -8,11 +8,9 @@
 
 - You can track your homework completion rate in [Garnet](http://garnet.wdidc.org).
 
-- Each assignment will ask you to learn or research something that has explicitly not been covered in class. Learning how to learn is fundamental to becoming a successful developer.
-
 ## Due Dates and Grading
 
-- You will generally be assigned homework every day. Due dates can be found in the schedules for your designated classroom.
+- You will be assigned homework every week. Outcomes HW is due every Monday at 6 pm, and you can see each week's assingment in your calendar: 
 
   **[Tabs](https://ga-dc.github.io/cr5/#2017-01-06)**
 
@@ -21,36 +19,10 @@
 
 - Unless otherwise directed, each assignment should be forked and cloned from a `ga-wdi-exercises` repository, and submitted as a pull request to the original `ga-wdi-exercises` repository from your fork. For more information on pull requests, see below.
 
-- Homework is graded only on **meaningful progress**. That is: that you made an effort to complete it, regardless of whether you were successful.
+- You will receive feedback on *some* of your homework assingments. Each homework details if you will receive feedback and when. We will always check that it's completed. If you have any questions about your work or want additional feedback, please come by office hours or set up a 1:1 with us. 
 
-- Plagiarized homework will not be accepted.
+- **We rely on homework to know where you're at.** It's very much to your advantage to turn in your homework the day it's assigned, even if -- *especially* if -- you're not able to finish it. Then we can address concerns and keep you from falling behind. We provide this flexibility to account for extenuating circumstances.
 
-> Concerned about what is considered plagiarism? Consult an instructor.
-
-- Assignments are graded on whether or not you seem to have made a meaningful effort to do them. There are three possible grades for each assignment:
-  - **Complete:** something was turned in, and meaningful effort was made.
-  - **Incomplete:** something was turned in, but meaningful effort was not made: the submission is blank, or it was blatantly copied wholesale from somewhere.
-  - **Missing:** nothing was turned in.
-
-- **We rely on homework to know where you're at.** It's very much to your advantage to turn in your homework the day it's assigned, even if -- *especially* if -- you're not able to finish it. Then we can address concerns before the unit continues and keep you from falling behind. We provide this flexibility to account for extenuating circumstances.
-
-- Feedback will not be given on assignments by an instructor unless you specifically request it. Requests for feedback, however, are encouraged. [See below for more details](#in-order-to-get-feedback-on-your-assignment).
-
-## What to include with your submission
-
-On **every submission** -- that is, on every pull request (or, sometimes, issue) -- please include:
-- **Comfort score**, out of 5
-- **Completeness score**, out of 5
-
-### In order to get feedback on your assignment...
-
-...when submitting your pull request or issue, please...
-
-- Ask specific questions, **ending them with a question mark**. We receive *lots* of assignments, and we rely on questions marks to provide a visual cue that we should stop and address something! Be sure to point us to the lines of code where you encountered issues and what you've already tried to solve your problems.
-
-  For example:
-
-  > Any thoughts as to why the function on line 49 kept returning 'NaN'? I Googled the error and found that I need to convert my inputs to integers but I'm not sure where to apply the method. 
 
 ## The Submission Process
 
