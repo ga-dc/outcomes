@@ -4,7 +4,7 @@
 
 * Prepare students for the dreaded technical interview 
 
-* Experience first hand what it’s like to be in a technical interview setting 
+* Experience firsthand what it’s like to be in a technical interview setting 
 
 * How to respond when you don’t know the answer 
 
@@ -16,7 +16,7 @@
 
 Are you dreading the technical interview?  Not sure what to expect or how to calm your nerves? Don’t worry as we will help you prepare to nail the interview and wow the employer!
 
-[See Full ](http://www.slideshare.net/vincentanidata/landing-your-first-data-science-job-the-technical-interview)[Presentation](http://www.slideshare.net/vincentanidata/landing-your-first-data-science-job-the-technical-interview) 
+[See Full Presentation](http://www.slideshare.net/vincentanidata/landing-your-first-data-science-job-the-technical-interview)
 
 ## Further Reading/ Resources: 
 

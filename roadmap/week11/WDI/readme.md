@@ -4,7 +4,7 @@
 
 * Prepare students for the dreaded technical interview
 
-* Experience first hand what it’s like to be in a technical interview setting
+* Experience firsthand what it’s like to be in a technical interview setting
 
 * How to respond when you don’t know the answer
 

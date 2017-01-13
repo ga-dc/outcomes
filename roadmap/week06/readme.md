@@ -14,7 +14,7 @@
 
 ## Framing:
 
-What is a must-have in your next career? How do you narrow down your job search strategy? What is the must have versus nice to have? Being able to communicate WHY you want a job is just as important as why you are a good fit for a job. We will tackle these questions and more this week. Be ready with your Organizational Research for a deep dive. Be sure you are ready for your headshot!
+What is a must-have in your next career? How do you narrow down your job search strategy? What is the must-have versus nice-to-have? Being able to communicate WHY you want a job is just as important as why you are a good fit for a job. We will tackle these questions and more this week. Be ready with your Organizational Research for a deep dive. Be sure you are ready for your headshot!
 
 ## You do:
 
@@ -46,7 +46,7 @@ What is a must-have in your next career? How do you narrow down your job search 
 
 - Professional development and growth
 
-- … and anything else!
+- . . . and anything else!
 
 Now, take a step back and look for any over-arching themes - what do you see?
 

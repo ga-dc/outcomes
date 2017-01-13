@@ -8,7 +8,7 @@
 
 ## Framing:
 
-We know you are in the final sprint for your projects. All we need is 20 minutes of your time! We’ll all come together to go over all things outcomes post course and then meet with each of you for 10-15 minutes to check-in on your outcomes materials.
+We know you are in the final sprint for your projects. All we need is 20 minutes of your time! We’ll all come together to go over all things outcomes post-course, and then meet with each of you for 10-15 minutes to check-in on your outcomes materials.
 
 ## Further Reading/ Resources:
 

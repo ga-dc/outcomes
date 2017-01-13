@@ -14,7 +14,7 @@
 
 ## Framing: (5/5)
 
-Everyone’s brand is different and unique, it is how you present yourself that matters! We all get nerves and feel self conscious during interviews, the best way to combat this is to practice and be prepared!
+Everyone’s brand is different and unique; it is how you present yourself that matters! We all get nerves and feel self-conscious during interviews. The best way to combat this is to practice and be prepared!
 
 Negotiating can be hard and intimidating! No matter how many times you have negotiated, how much money you have, or if you are an employer or job seeker - we are all weird about money! We’ll give you the tools and practice today to make this process less intimidating for you.
 
@@ -36,7 +36,7 @@ We do: (10/15)
 
 **Remember:**
 
-This is not an interrogation! Success will come from creating connection and a real, authentic, conversation
+This is not an interrogation! Success will come from creating connection and a real, authentic conversation.
 
 **Best Practices: Mental Prep**
 
@@ -90,7 +90,7 @@ Finish with the future - why you are really excited for this particular opportun
 
 * Where are you going?/Why should we care?
 
-**We do:** Volunteer interviews in-front of class
+**We do:** Volunteer interviews in front of class
 
 (Volunteers from class answer question, students provide feedback)
 
@@ -106,7 +106,7 @@ Finish with the future - why you are really excited for this particular opportun
 
 Each student will take turns answering interview questions.
 
-Turn to your neighbor. One of you will be the interviewer and one will be the interviewee
+Turn to your neighbor. One of you will be the interviewer and one will be the interviewee.
 
 Interviewers will ask the interviewee a minimum of 3 questions (10 minutes). Questions should include:
 
@@ -118,13 +118,13 @@ The Interviewer will give feedback to the interviewee (5 minutes)
 
 * As a group, they will share and discuss their feedback together and complete the [Peer Review Interview Rubric](https://docs.google.com/spreadsheets/d/1L1OP8HAgj6MZRJz2Z-Q_v79ATSBWeD_iQOlzuiPzoQo/edit#gid=1104109572).
 
-After 15 min, we’ll switch roles
+After 15 min, we’ll switch roles.
 
 ## **10 min Break**
 
 ## Negotiations: Knowing your Worth (10/75)
 
-55% of women and 39% of men admit being too scared to negotiate
+55% of women and 39% of men admit being too scared to negotiate.
 
 ## I do: When do you talk money in the process?
 
@@ -172,7 +172,7 @@ WDI: $60 - $80K
 
 DSI: $65K - $85K
 
-Check Glassdoor, ask us, ask alumni, google!
+Check Glassdoor, ask us, ask alumni, Google!
 
 ## We do (10/100)
 
@@ -180,23 +180,23 @@ Volunteer practice negotiating. Student volunteer will have just been offered a 
 
 Class will provide feedback:
 
-* Were the respectful, but strong?
+* Were they respectful, but strong?
 
 * Did they present their value and give specific examples as to why they deserve more money?
 
 * Did they approach the conversation looking for a win/win?
 
-* Were the articulate, clear, and confident?
+* Were they articulate, clear, and confident?
 
 ## You do: (20/120)
 
-Turn to your neighbor. One of you will be the student and one will be the employer
+Turn to your neighbor. One of you will be the student and one will be the employer.
 
 Students will practice negotiating for 10K more money. They’ve been offered 60K and they want 70K (5 minutes). Employers, your goal is to keep the number as low as possible, push back!
 
 The employer will give feedback to the interviewee (5 minutes)
 
-After 10 min, we’ll switch roles
+After 10 min, we’ll switch roles.
 
 ## We do: (5/125)
 
@@ -260,13 +260,13 @@ Open discussion - what worked/what didn’t. What do we need to practice moving 
 
 * Talk about your process and communicate how you tackle challenges
 
-* Learn new technologies quickly and apply them quickly. Look at what you’ve learned in the last 12 weeks, imagine what you could do in the first 12 weeks of the job
+* Learn new technologies quickly and apply them quickly. Look at what you’ve learned in the last 12 weeks, imagine what you could do in the first 12 weeks of the job.
 
 * Work in teams as well as individually, and meet deadlines.
 
 * Ask the right questions to get the right answers.
 
-* Work in an agile environment
+* Work in an agile environment.
 
 **Best Practices: Finishing Touches**
 

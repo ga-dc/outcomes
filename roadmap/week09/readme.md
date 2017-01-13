@@ -14,7 +14,9 @@ Take advantage of this week to polish your Brand Statement, Resume, GA Profile, 
 
 [RHT 2015 Salary Guide for Technology Professionals](https://drive.google.com/open?id=0B0cuNYi34jyuZTQtZUpkb2xYOVE&authuser=0)
 
-[TCG 2015 Salary Guide to Creative Industry](https://drive.google.com/open?id=0B0cuNYi34jyuVVQtT0VDVUx1SHM&authuser=0)[Dice Tech Salary Survey 2016](https://drive.google.com/open?id=0B0cuNYi34jyueG5QVldsckFmSWs)
+[TCG 2015 Salary Guide to Creative Industry](https://drive.google.com/open?id=0B0cuNYi34jyuVVQtT0VDVUx1SHM&authuser=0)
+
+[Dice Tech Salary Survey 2016](https://drive.google.com/open?id=0B0cuNYi34jyueG5QVldsckFmSWs)
 
 [Marketing Mentor: Hourly Rate/Overhead Calculation Worksheet](https://drive.google.com/open?id=0B0cuNYi34jyublZNUGk3WXFyRTg&authuser=0)
 

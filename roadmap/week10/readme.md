@@ -14,7 +14,7 @@
 
 ## Framing: 
 
-You have already done a lot! Unsure of how all of your hard work really contributes to the real working world? Ask the experts!  You will be able to ask leading industry experts anything under the sun so come prepared. Get an in depth perspective from experienced talent recruiters, hiring managers, and HR professionals. 
+You have already done a lot! Unsure of how all of your hard work really contributes to the working world? Ask the experts!  You will be able to ask leading industry experts anything under the sun so come prepared. Get an in-depth perspective from experienced talent recruiters, hiring managers, and HR professionals. 
 
 Questions you could ask: 
 
@@ -24,7 +24,7 @@ Questions you could ask:
 
 * How can our soon-to-be grads really stand out in the hiring process?
 
-* What's are some industry trends?
+* What are some industry trends?
 
 * What are some of the tough questions you ask candidates?
 
