@@ -2,6 +2,7 @@
 ## Administrative
 #### [Meet your Outcomes Team](https://github.com/ga-dc/outcomes/blob/master/outcomes-intro.md)
 #### [Outcomes Attendance](https://github.com/ga-dc/outcomes/blob/master/outcomes-attendance.md)
+#### [Outcomes Homework](https://github.com/ga-dc/outcomes/blob/master/homework.md)
 ## Communication
 #### [Communicating with Outcomes](https://github.com/ga-dc/outcomes/blob/master/communicating-with-outcomes.md)
 ## Curriculum 
