@@ -10,6 +10,8 @@
 
 * Editing process for GA Profiles
 
+* Best practices in creating a portfolio 
+
 ## Framing: (5/5)
 
 Your portfolio and GA Profiles are the most critical pieces of your public image in securing a job. Online Alumni Profiles are the best way for GA’s employment partners to reach you directly regarding new opportunities! This session is dedicated to showing best practices for your portfolio and building your Alumni Profile utilizing your Brand Statement, Resume and Job Search Strategy.
@@ -28,9 +30,9 @@ Must haves:
 
 * Initial page pulls them in for more information, create a tease so they want more
 
-* Projects: Screenshot, links
-
 * About page: Headshot, short description (brand statement + a bit more), contact information, and link to resume
+
+* Projects: Screenshot, links
 
 * WDI students: Each project should have a description sharing what the project does and what languages you used
 
