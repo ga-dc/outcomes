@@ -14,9 +14,9 @@
 
 ## Framing: (5/5)
 
-Everyone’s brand is different and unique; it is how you present yourself that matters! We all get nerves and feel self-conscious during interviews. The best way to combat this is to practice and be prepared!
+Everyone’s brand is different and unique; it is how you present yourself that matters. We all get nerves and feel self-conscious during interviews. The best way to combat this is to practice and be prepared!
 
-Negotiating can be hard and intimidating! No matter how many times you have negotiated, how much money you have, or if you are an employer or job seeker - we are all weird about money! We’ll give you the tools and practice today to make this process less intimidating for you.
+Negotiating can be hard and intimidating. No matter how many times you have negotiated, how much money you have, or if you are an employer or job seeker - we are all weird about money! We’ll give you the tools and practice today to make this process less intimidating for you.
 
 We do: (10/15)
 
