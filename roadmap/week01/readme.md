@@ -55,5 +55,6 @@ Our vision is put into action through programs and activities that foster profes
 
 ## Further Reading and Resources: 
 [Meet your Outcomes Team](https://github.com/ga-dc/outcomes/blob/master/outcomes-intro.md) 
-[Organizations that have hired GA Graduates] (https://docs.google.com/spreadsheets/d/1LlQlDoVDDDuTvrg2poqFX-2X7zEilUhJy04DuytWwL4/edit#gid=357230139) 
+
+[Organizations that have hired GA Graduates](https://docs.google.com/spreadsheets/d/1LlQlDoVDDDuTvrg2poqFX-2X7zEilUhJy04DuytWwL4/edit#gid=357230139) 
 
