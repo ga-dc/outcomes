@@ -92,7 +92,7 @@ Full-time immersive User Experience Design program that included over 500 hours 
 
 **DSI**
 
-Further Reading/Resources:
+## Further Reading/Resources:
 
 [The Muse: An Editor’s Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
 
