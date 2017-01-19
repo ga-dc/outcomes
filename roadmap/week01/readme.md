@@ -8,7 +8,7 @@
 
 * Begin to create your future vision 
 
-[Be sure to read our full presentation here](https://github.com/ga-dc/outcomes/blob/master/roadmap/week01/OUTCOMES%20DC%20INTRO%20PRESENTATION.pdf) 
+[Be sure to read our full presentation here](https://drive.google.com/file/d/0B4Db6Ll5urG2ajl4OXVuZmRXTEE/view) 
 
 Here at GA we pride ourselves on innovation and approaching things in a unique and exciting way. This is no different when approaching career development and the process towards achieving outcomes success. 
 
