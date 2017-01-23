@@ -13,6 +13,8 @@
 We get it, this program is a lot, and can be intimidating. But don’t worry . . . you’re not alone!  Need proof that you will survive and get through this? Talk to those who have survived a GA Immersive and have a job in this field! These expert alums will share their Tips and Tricks. Come prepared with 3 burning questions you would love to know the answer to.
 
 Your career coach will be available at the end of the panel for any 1:1 questions you have.
+## Homework 
+See homework due next Monday at 6 pm: [What's my Brand Worksheet] (https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md) 
 
 ## Further Reading/Resources:
 
