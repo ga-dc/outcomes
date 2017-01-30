@@ -18,5 +18,8 @@ Come with 3 questions for our presenters. This will include a tour of the space 
 
 Don’t forget to connect with all speakers on LinkedIn and thank them for their time! 
 
+## Homework: 
+Homework due next Monday at 6 pm: [Final Brand Statement + Draft Resume] (https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md)
+
 
 
