@@ -8,6 +8,10 @@
 
 Take advantage of this week to polish your Brand Statement, Resume, GA Profile, and LinkedIn Profile. Bring all to outcomes this week for additional feedback. You will have the opportunity to have 1:1 support from Joy or Sarah.
 
+## Homework
+
+Homework due next Monday at 6 pm [Final GA Profile] (https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md) 
+
 ## Further Reading/ Resources:
 
 **Salary Guides:** 
