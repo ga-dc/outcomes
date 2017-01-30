@@ -98,6 +98,9 @@ Now look at your list of likes/dislikes and choose your 3 non-negotiables. The 3
 
 - While you aren’t meeting, please work on outcomes materials!
 
+## Homework 
+Homework due next Monday at 6 pm: [Final LinkedIn Profile] (https://github.com/ga-dc/outcomes/blob/master/roadmap/week07/HWWeek7.md) 
+
 ## Further Reading/ Resources: 
 
 [The Tiny Buddha: 5 Steps to Change Your Perspective and Overcome Your Challenges](http://tinybuddha.com/blog/5-steps-to-change-your-perspective-and-overcome-your-challenges/?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%209/13/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
