@@ -89,6 +89,8 @@ Three-month, 500-hour full-time and full-stack web development program providing
 Full-time immersive User Experience Design program that included over 500 hours of professional training over ten weeks. Utilized a hands-on approach to practice user-centered design methods, design thinking skills, team collaboration, and client relations. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
 
 **DSI**
+## Homework 
+Homework due next Monday at 6 pm [Draft Brand Statement] (https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md)
 
 ## Further Reading/Resources:
 
