@@ -1,6 +1,6 @@
 #Outcomes Homework Summary 
 
-- [Week 1 Outcomes Homework: 
+- [Week 1 Outcomes Homework: ]()
 - [Week 2 Outcomes Homework: Vision + Goals Worksheet](https://github.com/ga-dc/outcomes/blob/master/roadmap/week02/HWWeek2.md)
 - [Week 3 Outcomes Homework: What’s My Brand Worksheet](https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md)
 - [Week 4 Outcomes Homework: What’s Your Brand Worksheet Part 2](https://github.com/ga-dc/outcomes/tree/master/roadmap/week04/HWweek4.md)
