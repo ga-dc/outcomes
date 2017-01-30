@@ -20,6 +20,10 @@ But how do you promote your brand and talents? Don’t worry, we’ve got you co
 
 Guest presenter Mike Gardner will take you through an interactive workshop to answer these questions.
 
+## Homework: 
+
+See Homework due next week: [Draft brand statement] (https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md). 
+
 ## Further Reading/Resources:
 
 [The Muse: What You Should Be Doing for Your Personal Brand Every Day, Week, and Month](https://www.themuse.com/advice/what-you-should-be-doing-for-your-personal-brand-every-day-week-and-month?utm_source=Sailthru&utm_medium=email&utm_campaign=What%20You%20Should%20Be%20Doing%20for%20Your%20Personal%20Brand%20Every%20Day%2C%20Week%2C%20and%20Month&utm_term=Daily%20Email%20List)
