@@ -129,7 +129,7 @@ Full-time immersive User Experience Design program that included over 500 hours 
 
 **DSI**
 ## Homework 
-Homework due next Monday at 6 pm [Draft Brand Statement] (https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md)
+Homework due next Monday at 6 pm [Work on Resume and LinkedIn] (https://github.com/ga-dc/outcomes/blob/master/roadmap/week04/HWweek4WDI14.md)
 
 ## Further Reading/Resources:
 
