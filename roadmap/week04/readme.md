@@ -70,9 +70,15 @@ Review of previous successful resumes:
 
 * [UXDI Resume Examples](https://drive.google.com/drive/folders/0BwHwzYWStKuafng5djhvTnltdEVFTDhFM2dwU1JyMm9jcmJFM3ltZ3lEWVZPOFFWWGdEeTA/0B0cuNYi34jyufm9jY1ZNTkdWTE5VMU5pbDlBYkxjVmVjY1p4UzN3LVJQd2c0Wi1CRm1WSkE/0B0cuNYi34jyufmU3UE5hblBUS1hjTFZ1VkRTT2hveHB6TXlxT29JQkdUYzlhbmprdFluR0k)
 
-[Being specific with your content ](http://everyvowel.com/resume-2/)
+Writing sucessful bullets: 
+
+- Begin with verbs (Developed, Created, Designed, Managed, Led), and be sure to vary them 
+
+- [Be specific with your content ](http://everyvowel.com/resume-2/)
 
 ## You do:
+
+- Turn to your neighbor. Choose a bullet on your resume to make quantifiable and brainstorm together on how to make it quantifiable and more specific
 
 - Create your draft resume
 
