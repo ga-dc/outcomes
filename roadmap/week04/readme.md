@@ -152,3 +152,5 @@ Homework due next Monday at 6 pm [Work on Resume and LinkedIn] (https://github.c
 [Aline Lerner’s Blog: Lessons From a Year’s Worth of Hiring Data](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
 
 [Forbes: 9 Key Things the Hiring Manager is Looking for on Your Developer Resume](http://www.forbes.com/sites/dailymuse/2016/02/09/9-key-things-the-hiring-manager-is-looking-for-on-your-developer-resume/#2d0f465234e8)
+
+[How to ask for an Informational Interview and get a Yes](https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes)
