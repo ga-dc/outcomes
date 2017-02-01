@@ -2,13 +2,15 @@
 
 ## Learning Objectives:
 
-* Understand how to create a successful resume that will get noticed
+* Understand how to create a successful resume and LinkedIn Profile that will get noticed
 
-* Communicate your GA experience effectively on your resume
+* Communicate your GA experience effectively on your resume and LinkedIn
 
 * Organize content on your resume to tell the story of your career transition
 
 * Create a draft resume
+
+* Update your LinkedIn profile 
 
 ## Framing: (5/0) 
 
@@ -82,11 +84,33 @@ Turn to your neighbor. Choose a bullet on your resume to make quantifiable and b
 
 ## LinkedIn: (20/60) 
 
-- [Here’s an example](https://www.linkedin.com/in/christinemovius) to model
+LinkedIn is an incredibly valuable tool that can completely shift your networking strategies 
+
+Whenever you are interested in an organization, search to see if you have any 1st, 2nd, or 3rd degree connections to that organization, and then ask for a connection
+- Hi NAME! I hope everything is going well with you! As you may know, I've just started GA's XYZ immersive course, and I'm loving it so far! I'll soon be job searching and am looking to learn more about the tech field in DC. I saw that you are connected to ABC and I'm very interested in that organization, would you be willing to connect us? I've written an email below that you can copy and paste: 
+
+### Updating your LinkedIn 
+First of all, turn off notifications when you are making lots of edits (Profile Page > Halfway down the righthand side)
+
+Update your tagline (under your name)
+- Examples: Web Developer, Frontend Developer, Web Development Student at GA, User Experience Designer, Data Scientist. Even if you don't feel like it's true, put it up there! 
+
+Make sure your contact information is listed
+
+Once your resume is final, you can copy and paste the content into LinkedIn 
+
+Add your GA projects to your GA section 
+- Use the "Add a section to your GA Profile" and then look for "Projects" 
+
+Ask for recommendations: former bosses, coworkers, clients 
+- You can use the recommendation section on LinkedIn and
+- Be sure to follow up with a personalized note: Hi NAME, I hope everything is going well with you! As you may know, I've just started GA's XYZ immersive course, and I'm loving it so far! I'll soon be job searching and am looking to build up my LinkedIn profile, would you be willing to write me a recommendation? I'd be happy to draft some ideas for you if that's helpful. 
+
+[Here’s an example](https://www.linkedin.com/in/christinemovius) to model
 
 ## You do: 
 
-Create your draft resume
+Begin your draft resume
 
 - Here are templates you can [use in word](https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now?utm_source=Sailthru&utm_medium=email&utm_term=Daily%20Email%20List&utm_campaign=275%20Free%20Resume%20Templates%20That%27ll%20Make%20Your%20Life%20Easier) and Google docs: [Google Doc Add-on VisualCV](https://www.visualcv.com/www/google-docs-resume-templates/)  + [Google Doc templates](https://docs.google.com/document/u/0/)
 
@@ -95,6 +119,9 @@ Create your draft resume
 **_WDI_**
 
 Three-month, 500-hour full-time and full-stack web development program providing experience with the latest front- and back-end programming languages, tools, and methodologies including: HTML, CSS, SASS, Javascript, jQuery, PostgreSQL, MongoDB, Ruby, Ruby on Rails, AngularJS, NodeJS, ReactJS, PHP, Wordpress, Jasmine, RSpec, Git, Github, Agile/scrum, wire framing, user stories/requirements planning, and test driven development.
+
+- Led a team of 4 to build a functional site for Drizly- a local startup specializing in on-demand alcohol delivery.
+- Completed projects using JavaScript, jQuery, AJAZ, Ruby, Ruby on Rails, PostgreSQL, node.js, handlebars, HTML, CSS, Sass
 
 **UXDI**
 
