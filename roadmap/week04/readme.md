@@ -108,6 +108,18 @@ Ask for recommendations: former bosses, coworkers, clients
 
 [Here’s an example](https://www.linkedin.com/in/christinemovius) to model
 
+### GA on LinkedIn 
+- [Browse GA's Page](https://www.linkedin.com/edu/alumni?id=150005&trk=edu-up-nav-menu-alumni) 
+- [Join GA Alumni Group](https://www.linkedin.com/edu/alumni?id=150005&trk=edu-up-nav-menu-alumni) 
+
+### Getting the Most out of LinkedIn
+- Join relevant groups (JS devs, Data Science, UX etc.) 
+- Follow your favorite companies 
+- Meet strangers and request informational interviews 
+- Use advanced search to find hiring managers 
+- Share, read, and comment on articles 
+- Search for jobs, and see who you know at the company
+
 ## You do: 
 
 Begin your draft resume
