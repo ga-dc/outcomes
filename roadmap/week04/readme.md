@@ -10,11 +10,11 @@
 
 * Create a draft resume
 
-## Framing:
+## Framing: (5/0) 
 
 We know that you likely don’t know yet what you want to do or where to even begin with your resume; that’s okay! Our goal today is to show you what success looks like, and to get your content into a draft that you can continue to work on.
 
-## I do:
+## I do: (10/15) 
 
 **The secret six:**
 
@@ -60,7 +60,7 @@ Do your research - your resume is your personal advertisement
 
     6. Anything else that you are really proud of that you’d like to share
 
-## We do:
+## We do: (15/30) 
 
 [6 second test (game)](https://resumegenius.com/6-second-resume-challenge)
 
@@ -76,9 +76,15 @@ Writing sucessful bullets:
 
 - [Be specific with your content ](http://everyvowel.com/resume-2/)
 
-## You do:
+## You do: (10/40) 
 
 Turn to your neighbor. Choose a bullet on your resume to make quantifiable and brainstorm together on how to make it quantifiable and more specific
+
+## LinkedIn: (20/60) 
+
+- [Here’s an example](https://www.linkedin.com/in/christinemovius) to model
+
+## You do: 
 
 Create your draft resume
 
