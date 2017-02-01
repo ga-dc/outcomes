@@ -78,9 +78,9 @@ Writing sucessful bullets:
 
 ## You do:
 
-- Turn to your neighbor. Choose a bullet on your resume to make quantifiable and brainstorm together on how to make it quantifiable and more specific
+Turn to your neighbor. Choose a bullet on your resume to make quantifiable and brainstorm together on how to make it quantifiable and more specific
 
-- Create your draft resume
+Create your draft resume
 
 - Here are templates you can [use in word](https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now?utm_source=Sailthru&utm_medium=email&utm_term=Daily%20Email%20List&utm_campaign=275%20Free%20Resume%20Templates%20That%27ll%20Make%20Your%20Life%20Easier) and Google docs: [Google Doc Add-on VisualCV](https://www.visualcv.com/www/google-docs-resume-templates/)  + [Google Doc templates](https://docs.google.com/document/u/0/)
 
