@@ -1,6 +1,4 @@
-# Week 8 Homework   
-
-## Final Resume 
+# Final Resume 
 
 - FINAL Resume
   - You will receive feedback on this within a week
