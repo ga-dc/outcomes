@@ -1,6 +1,4 @@
-# Week 10 HW   
-
-## Final GA Profile 
+# Final GA Profile 
 
 - FINAL [GA Profile](http://profiles.generalassemb.ly/profiles/new)
   - Get 3 Peer Reviews Prior to submission
