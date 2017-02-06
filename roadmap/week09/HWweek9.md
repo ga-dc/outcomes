@@ -1,6 +1,4 @@
-# Week 9 HW   
-
-## Catch up + get ready 
+# Catch up + get ready 
 
 - 3 New Organizations that pique  your interest
 
