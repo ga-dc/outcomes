@@ -1,6 +1,4 @@
-# Week 6 Homework   
-
-## Final Brand Statement + Draft Resume 
+ # Final Brand Statement + Draft Resume 
 
 - FINAL Brand Statement
   - You should have gone through 3 Peer Reviews
