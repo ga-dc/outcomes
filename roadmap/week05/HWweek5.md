@@ -1,5 +1,4 @@
-#Week 5 Homework 
-##Draft Brand Statement 
+# Draft Brand Statement 
 
 - **DRAFT** Brand Statement
   - You will receive feedback on this within a week. Be sure to also get feedback from 3 of your classmates as well! 
