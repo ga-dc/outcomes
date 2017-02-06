@@ -1,6 +1,4 @@
-# Week 4 Homework  
-
-## What’s Your Brand Worksheet Part 2  
+# What’s Your Brand Worksheet Part 2  
 
 - Complete [What’s your Brand Worksheet: Part 2](https://docs.google.com/forms/d/e/1FAIpQLSce8JwnNGsKec67J6yztKG335DJ0QaMXA3qkdTkrF1ccejHPg/viewform) 
   - This worksheet will help you create your branding statement. We will not give you feedback on the worksheet, but will check to see that you have completed it
