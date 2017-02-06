@@ -1,6 +1,4 @@
-# Week 3 Homework
-
-## What’s My Brand Worksheet     
+# What’s My Brand Worksheet     
 
 - Complete [What’s My Brand Worksheet](http://goo.gl/forms/fw9o5CGu2X) 
   - Results will be emailed to you for your reference.
