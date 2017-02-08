@@ -2,7 +2,8 @@
 
 We love meeting and talking with you, please don't be shy! 
 
-- Every Friday from 1 pm to 2 pm Joy or Sarah will be available for open office hours. No need to make an appointment, just swing by. We'll be at the round tables outside of the classrooms
+- Every Friday from 1 pm to 2 pm and Tuesday from 5 pm to 6 pm Joy or Sarah will be available for open office hours. No need to make an appointment, just swing by. We'll be at the round tables outside of the classrooms
+
 - Every Thursday from 5:30 pm to 8:30 pm Allyson Austin is available for copywriting office hours. Bring your brand statement, resume, portfolio, or cover letter for feedback! She's a copywriting guru
 
 In addition to open office hours, you can also schedule a longer one-on-one with us through our calendars. Just click on a link that works for you and we'll get an alert: 
