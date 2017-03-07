@@ -22,7 +22,7 @@ We know that you likely don’t know yet what you want to do or where to even be
 
 1. Your resume should be an advertisement – not an autobiography
 
-2. Write for the Reader – not yourself
+2. Write for the reader – not yourself
 
 3. Make it easy to be screened in – not out
 
@@ -38,13 +38,13 @@ Do your research - your resume is your personal advertisement
 
 1. Introduction (centered): Name, phone number, email, location (just city, state)
 
-2. Brand Statement (centered)
+2. Brand Statement (centered) {You do not need to label it as "Brand Statement"
 
 3. Skills
 
 4. Relevant Experience:
 
-    1. General Assembly + description
+    1. General Assembly XX IMMERSIVE STUDENT + description
 
     2. Projects
 
@@ -71,6 +71,8 @@ Review of previous successful resumes:
 * [WDI Resume Examples](https://drive.google.com/drive/folders/0BwHwzYWStKuafng5djhvTnltdEVFTDhFM2dwU1JyMm9jcmJFM3ltZ3lEWVZPOFFWWGdEeTA/0B0cuNYi34jyufm9jY1ZNTkdWTE5VMU5pbDlBYkxjVmVjY1p4UzN3LVJQd2c0Wi1CRm1WSkE/0B0cuNYi34jyufmgxOWtkSGNhRHFQX2tudXJUOXlFdXV3djNSTDV2MXlJNnhMaGgtNnp6NVE)
 
 * [UXDI Resume Examples](https://drive.google.com/drive/folders/0BwHwzYWStKuafng5djhvTnltdEVFTDhFM2dwU1JyMm9jcmJFM3ltZ3lEWVZPOFFWWGdEeTA/0B0cuNYi34jyufm9jY1ZNTkdWTE5VMU5pbDlBYkxjVmVjY1p4UzN3LVJQd2c0Wi1CRm1WSkE/0B0cuNYi34jyufmU3UE5hblBUS1hjTFZ1VkRTT2hveHB6TXlxT29JQkdUYzlhbmprdFluR0k)
+
+* [DSI Resume Examples](https://drive.google.com/open?id=0B2111_pgbRHrWDhjME1OR21jNWM)
 
 Writing sucessful bullets: 
 
