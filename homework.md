@@ -16,7 +16,8 @@
 
 - **We rely on homework to know where you're at.** It's very much to your advantage to turn in your homework the day it's assigned, even if -- *especially* if -- you're not able to finish it. Then we can address concerns and keep you from falling behind. We provide this flexibility to account for extenuating circumstances.
 
-#Outcomes Homework Summary 
+# Outcomes Homework Summary 
+*Be sure to check your individual course HW assingments as each individual course is different*
 
 - [Week 2 Outcomes Homework: Vision + Goals Worksheet](https://github.com/ga-dc/outcomes/blob/master/roadmap/week02/HWWeek2.md)
 - [Week 3 Outcomes Homework: What’s My Brand Worksheet](https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md)
