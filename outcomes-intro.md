@@ -6,7 +6,7 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 
 ### Sarah Brooks
 ![Sarah Brooks](/assets/sarahbrooks.jpg)
-- Outcomes Producer
+- Outcomes Lead
 - Career Coach
 - [sarah.brooks@ga.co](mailto:sarah.brooks@ga.co)
 - [Sarah's Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU51a0hzZWhMYWEzfGRlZmF1bHR8OTdmMmNjZTAxMmY2ZTliNzlkMjY1MmExZWE0ZTZiYTY)
@@ -15,7 +15,7 @@ Sarah’s passionate about creatively inspiring individuals to make a difference
 
 ### Joy Haugen
 ![Joy Haugen](/assets/joyhaugen.png)
-- Outcomes Producer
+- Outcomes Lead
 - Career Coach
 - [joy.haugen@ga.co](mailto:joy.haugen)
 - [Joy's Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUhjY1U5MFVhS1YzfGRlZmF1bHR8YzI3Yzc5YjBjMzBkYTBhZTY1MDFlY2U1ZjQwZWNmYmI)
