@@ -60,6 +60,14 @@ Check out these meet ups:
 
 - [Data Wranglers](https://www.meetup.com/Data-Wranglers-DC/)
 
+- [Data Science DC](https://www.meetup.com/Data-Science-DC/) 
+
+- [Django District](https://www.meetup.com/django-district/) 
+
+- [Learning Deep Learning](https://www.meetup.com/Learning-Deep-Learning/)
+
+- [Silver Spring AI/Machine Learning](https://www.meetup.com/Silver-Spring-AI-Machine-Learning-Enthusiast-Meetup/)
+
 **Readings:**
 
 - [DC Tech Meet Up: How to Hack the DC Tech Ecosystem](https://hackpad.com/How-to-Hack-the-DC-Tech-Ecosystem-EYfL7X7gepL)
