@@ -10,12 +10,7 @@
 
 ## Due Dates and Grading
 
-- You will be assigned homework every week. Outcomes HW is due every Monday at 6 pm, and you can see each week's assingment in your calendar: 
-
-  **[Tabs](https://ga-dc.github.io/cr5/#2017-01-06)**
-
-  **[Spaces](https://ga-dc.github.io/cr6/#2017-01-06)**
-
+- You will be assigned homework every week. Outcomes HW is due every Monday at 6 pm, and you can see each week's assingment in your class calendar. 
 
 - You will receive feedback on *some* of your homework assingments. Each homework details if you will receive feedback and when. We will always check that it's completed. If you have any questions about your work or want additional feedback, please come by office hours or set up a 1:1 with us. 
 
