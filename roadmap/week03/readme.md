@@ -16,6 +16,8 @@ Your brand is your value proposition. It is important to understand who you are 
 
 But how do you promote your brand and talents? Don’t worry, we’ve got you covered!  We will show you how to explain yourself and your talents in a compelling and interesting way so that your brand doesn’t get lost in translation.
 
+This will help you to establish your pitch when you are at the student spotlight, interviewing and networking! 
+
 ## Format: 
 
 Guest presenter Mike Gardner will take you through an interactive workshop to answer these questions.
