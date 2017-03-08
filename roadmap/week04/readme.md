@@ -80,6 +80,8 @@ Writing sucessful bullets:
 
 - [Be specific with your content ](http://everyvowel.com/resume-2/)
 
+- Remember to provide proof...show the data. Don't just say "Led a team". Rather, "Led a team of five to achieve a growth rate that increased revenue 80%" 
+
 ## You do: (10/40) 
 
 Turn to your neighbor. Choose a bullet on your resume to make quantifiable and brainstorm together on how to make it quantifiable and more specific
