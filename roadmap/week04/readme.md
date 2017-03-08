@@ -36,11 +36,11 @@ Do your research - your resume is your personal advertisement
 
 **The format:**
 
-1. Introduction (centered): Name, phone number, email, location (just city, state)
+1. Introduction (centered): Name, phone number, email, location (just city, state), link to portfolio
 
-2. Brand Statement (centered) {You do not need to label it as "Brand Statement"
+2. Brand Statement (centered) {You do not need to label it as "Brand Statement"}
 
-3. Skills
+3. Skills (List your hard skills - tools, languages, programming)
 
 4. Relevant Experience:
 
@@ -85,6 +85,28 @@ Writing sucessful bullets:
 ## You do: (10/40) 
 
 Turn to your neighbor. Choose a bullet on your resume to make quantifiable and brainstorm together on how to make it quantifiable and more specific
+
+## Cover Letters  
+
+Don't stress out about Cover Letters. This is another tool to gain insight into who you are as a candidate that should be an addition to your resume to demonstrate why you would be a great addition to their team.  
+
+Use the KISS method-Keep It Simple Stupid. 
+
+Format: 
+
+Use the same heading as your resume {Name, phone number, email, location (just city, state), link to portfolio}
+
+Paragraph 1: Say what you are applying for and how you heard about the organization. 
+
+Paragraph 2: State why THEY are great. 
+
+Paragraph 3: State why YOU are great. 
+
+Paragraph 4: State why you BOTH are great and would be a good fit. 
+
+Paragraph 5: Call to Action and Contact Info.
+
+* [Cover Letter Example](https://docs.google.com/document/d/1qTkcSgqzoS_WpvXirPhlctP5WDtZH40frIeL6jKv0ek/edit)
 
 ## LinkedIn: (20/60) 
 
@@ -133,21 +155,37 @@ Begin your draft resume
 - GA sample descriptions (please don’t just copy and paste - add your own voice to this!):
 
 **_WDI_**
+Web Development Immersive Student
+General Assembly Web Development Immersive
+March 2016-May 2016|Washington DC
 
-Three-month, 500-hour full-time and full-stack web development program providing experience with the latest front- and back-end programming languages, tools, and methodologies including: HTML, CSS, SASS, Javascript, jQuery, PostgreSQL, MongoDB, Ruby, Ruby on Rails, AngularJS, NodeJS, ReactJS, PHP, Wordpress, Jasmine, RSpec, Git, Github, Agile/scrum, wire framing, user stories/requirements planning, and test driven development.
+Three-month, 500-hour full-time and full-stack web development program providing experience with the latest front- and back-end programming languages, tools, and methodologies including: HTML, CSS, SASS, Javascript, jQuery, PostgreSQL, MongoDB, Ruby, Ruby on Rails, AngularJS, NodeJS, ReactJS, PHP, Wordpress, Jasmine, RSpec, Git, Github, Agile/scrum, wire framing, user stories/requirements planning, and test driven development. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
 
 - Led a team of 4 to build a functional site for Drizly- a local startup specializing in on-demand alcohol delivery.
 - Completed projects using JavaScript, jQuery, AJAZ, Ruby, Ruby on Rails, PostgreSQL, node.js, handlebars, HTML, CSS, Sass
 
 **UXDI**
+UX Design Immersive Student
+General Assembly User Experience Design Immersive
+March 2016-May 2016|Washington DC
 
 Full-time immersive User Experience Design program that included over 500 hours of professional training over ten weeks. Utilized a hands-on approach to practice user-centered design methods, design thinking skills, team collaboration, and client relations. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
 
 **DSI**
+Data Science Immersive Student
+General Assembly Data Science Immersive
+March 2016-May 2016|Washington DC
+
+Participated in full-time immersive Data Science course, completing in-class projects, Kaggle competitions, and personal projects focused on real-world applications of data science principles and best practices. Acquired, cleaned, and explored large datasets using Python, SQL, and Tableau in order to present findings to both technical and non-technical audiences. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
+
+
+
 ## Homework 
 Homework due next Monday at 6 pm [Work on Resume and LinkedIn] (https://github.com/ga-dc/outcomes/blob/master/roadmap/week04/HWweek4WDI14.md)
 
 ## Further Reading/Resources:
+
+[Resume & Social Media Slide Deck](https://drive.google.com/open?id=0B2111_pgbRHrX1Vzd084N3JwYW8)
 
 [The Muse: An Editor’s Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
 
