@@ -156,8 +156,6 @@ Begin your draft resume
 
 **_WDI_**
 Web Development Immersive Student
-General Assembly Web Development Immersive
-March 2016-May 2016|Washington DC
 
 Three-month, 500-hour full-time and full-stack web development program providing experience with the latest front- and back-end programming languages, tools, and methodologies including: HTML, CSS, SASS, Javascript, jQuery, PostgreSQL, MongoDB, Ruby, Ruby on Rails, AngularJS, NodeJS, ReactJS, PHP, Wordpress, Jasmine, RSpec, Git, Github, Agile/scrum, wire framing, user stories/requirements planning, and test driven development. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
 
@@ -166,15 +164,11 @@ Three-month, 500-hour full-time and full-stack web development program providing
 
 **UXDI**
 UX Design Immersive Student
-General Assembly User Experience Design Immersive
-March 2016-May 2016|Washington DC
 
 Full-time immersive User Experience Design program that included over 500 hours of professional training over ten weeks. Utilized a hands-on approach to practice user-centered design methods, design thinking skills, team collaboration, and client relations. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
 
 **DSI**
 Data Science Immersive Student
-General Assembly Data Science Immersive
-March 2016-May 2016|Washington DC
 
 Participated in full-time immersive Data Science course, completing in-class projects, Kaggle competitions, and personal projects focused on real-world applications of data science principles and best practices. Acquired, cleaned, and explored large datasets using Python, SQL, and Tableau in order to present findings to both technical and non-technical audiences. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
 
