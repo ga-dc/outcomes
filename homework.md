@@ -26,7 +26,7 @@
 - [Week 6 Outcomes Homework: Final Brand Statement + Draft Resume](https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md)
 - [Week 7 Outcomes Homework: Final LinkedIn Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week07/HWWeek7.md)
 - [Week 8 Outcomes Homework: Final Resume](https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md)
-- [Week 9 Outcomes Homework: Catch up + get ready](https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md)
+- [Week 9 Outcomes Homework: Draft GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md)
 - [Week 10 Outcomes Homework: Final GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md)
 
 
