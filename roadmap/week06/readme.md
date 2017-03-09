@@ -1,4 +1,4 @@
-# Week 6: Defining Your Job Search Requirements + Headshots
+# Week 6: Defining Your Job Search Requirements
 
 ## Learning Objectives:
 
@@ -10,11 +10,10 @@
 
 * Get feedback on your Resume and begin to build your job search strategy with your career coach
 
-* Get your headshot!
 
 ## Framing:
 
-What is a must-have in your next career? How do you narrow down your job search strategy? What is the must-have versus nice-to-have? Being able to communicate WHY you want a job is just as important as why you are a good fit for a job. We will tackle these questions and more this week. Be ready with your Organizational Research for a deep dive. Be sure you are ready for your headshot!
+What is a must-have in your next career? How do you narrow down your job search strategy? What is the must-have versus nice-to-have? Being able to communicate WHY you want a job is just as important as why you are a good fit for a job. We will tackle these questions and more this week. Be ready with your Organizational Research for a deep dive. 
 
 ## You do:
 
@@ -94,9 +93,7 @@ Now look at your list of likes/dislikes and choose your 3 non-negotiables. The 3
 
 - Time to meet 1:1 with your coach
 
-- Get your headshot taken
-
-- While you aren’t meeting, please work on outcomes materials!
+- While you aren’t meeting with your coach, please work on outcomes materials!
 
 ## Homework 
 Homework due next Monday at 6 pm: [Final LinkedIn Profile] (https://github.com/ga-dc-outcomes/linkedin-profile) 
