@@ -207,6 +207,8 @@ Homework due next Monday at 6 pm: [Final Resume] (https://github.com/ga-dc/outco
 
 ## Further Reading/ Resources:
 
+[Interviews & Negotiation Slides](https://drive.google.com/open?id=0B2111_pgbRHrTFZDcjJiWVM2MTg)
+
 **Interviewing:**
 
 [The Muse: The Ultimate Guide to Researching a Company Pre-Interview](https://www.themuse.com/advice/the-ultimate-guide-to-researching-a-company-preinterview)
