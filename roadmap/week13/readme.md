@@ -2,7 +2,7 @@
 
 ## Learning Objectives: 
 
-* Get feedback on your portfolio from peers and GA staff 
+* Get feedback on your portfolio from peers and GA staff. Remember your final MUST be complete by Outcomes Bootcamp 
 
 * Practice introducing yourself in the same format as the Student Spotlight
 
