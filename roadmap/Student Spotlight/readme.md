@@ -32,7 +32,7 @@ Please do not reach out to anyone before the Spotlight, we will give you a list 
 
 * Bring business cards if you have them.
 
-* Bring 60 printed resumes. You never know when you can hand it out! We will not be able to print them here!!
+* Bring at least 20 printed resumes. In general recruiters will want a hard copy. We will not be able to print them here. If you don't have a printer, we recommend Staples, FedEx Office, or even your public library. Don't worry about printing on fancy paper, you won't need it and we don't want to break your bank! 
 
 * Bring something to take notes on and figure out a system that works for you to track the people you meet. Remember, you will need to follow up with EVERY contact you make. It's always nice to reference discussion points in your follow up email. (We will provide you with every attendee's email afterwards as well.)
 
