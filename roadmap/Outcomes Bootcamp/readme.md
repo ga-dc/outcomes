@@ -1,4 +1,4 @@
-# Bootcamp     
+# Outcomes Bootcamp     
 
 ## Learning Objectives:
 
