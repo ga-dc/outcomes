@@ -24,7 +24,7 @@ Sample LinkedIn outreach:
 
 Hi Name -
 
-As a talented developer/designer/data scientist in DC, I wanted to invite you to General Assembly’s Web Development Student Spotlight, where you’ll have the chance to meet our most recent graduates of our web development/UX design/data science immersive program. Details are here: 1/12, 4:00-6:30 pm, 1133 15th St NW-8th Floor.
+As a talented {developer/designer/data scientist} in DC, I wanted to invite you to General Assembly’s Student Spotlight, where you’ll have the chance to meet our most recent graduates of our {web development/UX design/data science} immersive program. Details are here: DATE, 4:00-6:30 pm, 1133 15th St NW-8th Floor.
 
 Cheers,
 
@@ -32,7 +32,7 @@ Cheers,
 
 Hi Name,
 
-As a talented web developer in the DC area, I want to personally invite you to attend General Assembly’s upcoming Web Development Student Spotlight on January 12th between 4:00-6:30pm!
+As a talented {developer/designer/data scientist} in the DC area, I want to personally invite you to attend General Assembly’s upcoming Web Development Student Spotlight on January 12th between 4:00-6:30pm!
 
 The event is essentially a reverse career fair where you'll have the chance to meet and talk with our most recent graduates - it's totally free to attend, we just ask that you RSVP so we can plan accordingly.
 
