@@ -2,11 +2,11 @@
 
 ## Framing:
 
-Experience the reverse career fair - you set up a booth and employers spend the afternoon walking through the GA campus,  meeting you, and looking at your work. Today will give you the chance to connect one on one with employers!
+Experience the reverse career fair - you set up a table and employers spend the afternoon walking through the GA campus,  meeting you, and looking at your work. The spotlight will give you the chance to connect one on one with employers!
 
-To get prepared, below are some helpful tips to jumpstart your road to success! You should have your portfolio, your 2 minute elevator pitch, 40 hard copies of your resume, and your game face on...ready to land a job!
+To get prepared, below are some helpful tips to jumpstart your road to success! You should have your portfolio, your 2 minute elevator pitch, 20 hard copies of your resume, and your game face on...ready to land a job!
 
-Please do not reach out to anyone before the Spotlight, we will give you a list of everyone that attended after the event for you to follow up with.
+A day before the spotlight you will get a list of who has RSVPed. Please do not reach out to anyone before the Spotlight, we will give you a list of everyone that attended after the event for you to follow up with.
 
 **Run of Show:** You will be stationed at your own tables. Think of it as a reverse career fair. Employers will be the ones walking around to get to know you, see your portfolios, and find relevant talent for openings within their organizations. You will be doing a lot of talking!!!!
 
@@ -30,7 +30,7 @@ Please do not reach out to anyone before the Spotlight, we will give you a list 
 
 * Clean your actual computer. We have screen cleaners and Lysol wipes at the front desk.
 
-* Bring business cards if you have them.
+* Bring business cards if you have them (not required). 
 
 * Bring at least 20 printed resumes. In general recruiters will want a hard copy. We will not be able to print them here. If you don't have a printer, we recommend Staples, FedEx Office, or even your public library. Don't worry about printing on fancy paper, you won't need it and we don't want to break your bank! 
 
@@ -38,9 +38,9 @@ Please do not reach out to anyone before the Spotlight, we will give you a list 
 
 * Be inclusive during the event. It's important to make sure no one is left waiting to talk to you. Invite them to join the conversations you are already having. It would not be uncommon for people from multiple organizations gathering around your station to hear what you have to say.
 
-* Dress nicely but be comfy. You don't need to go suit & tie, but try to stay away from crazy t-shirts. Remember you will be standing for at least 4 hours.
+* Dress nicely but be comfy. You don't need to go suit & tie, but try to stay away from crazy t-shirts. Remember you will be standing for at least 3 hours.
 
-* GA will be providing you with a two-pocket folder for paperwork, bottles of water, and snacks.
+* GA will be providing you with bottles of water and mints.
 
 * Be prepared to speak up and make eye contact...this is  YOUR show!
 
