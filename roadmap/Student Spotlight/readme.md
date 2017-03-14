@@ -2,11 +2,11 @@
 
 ## Framing:
 
-Experience the reverse career fair - you set up a table and employers spend the afternoon walking through the GA campus,  meeting you, and looking at your work. The spotlight will give you the chance to connect one on one with employers!
+Experience the reverse career fair - you set up a table and employers spend the afternoon walking through the GA campus, meeting you, and looking at your work. The spotlight will give you the chance to connect one on one with recruiters, hiring managers, and the GA Community! 
 
-To get prepared, below are some helpful tips to jumpstart your road to success! You should have your portfolio, your 2 minute elevator pitch, 20 hard copies of your resume, and your game face on...ready to land a job!
+To get prepared, below are some helpful tips to jumpstart your road to success! You should have your portfolio, your 2 minute elevator pitch, 20 hard copies of your resume, and your game face on...ready to talk about your talents and hard work! 
 
-A day before the spotlight you will get a list of who has RSVPed. Please do not reach out to anyone before the Spotlight, we will give you a list of everyone that attended after the event for you to follow up with.
+A day before the spotlight you will get a list of who has RSVPed. Please do not reach out to anyone before the Spotlight, we will give you a list of everyone that attended after the event for you to follow up with. 
 
 **Run of Show:** You will be stationed at your own tables. Think of it as a reverse career fair. Employers will be the ones walking around to get to know you, see your portfolios, and find relevant talent for openings within their organizations. You will be doing a lot of talking!!!!
 
