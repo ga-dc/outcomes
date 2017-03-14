@@ -48,11 +48,11 @@ A day before the spotlight you will get a list of who has RSVPed. Please do not 
 
 You want to be prepared to provide a brief overview of who you are, what you graduated from, your project, and what you hope to accomplish in your next job.  
 
-**_Example: _**
+**Example:**
 
 Hi!  My name is NAME.  I just graduated the X GA Immersive and really enjoyed learning about X.  My background is X.  The Project that you see here today is X and essentially it tackles X.  My goal in my next opportunity is X.  I am so thrilled you stopped by. Thank you so much EMPLOYER NAME!
 
-Practice your pitch at least 10 times the day before.  Be sure you sound calm, confident, and sincere.  Practice enunciating your words, speaking up and making eye contact. Take out the filler word ("*Aum, Like, Well, So, Uh", etc)  *
+Practice your pitch at least 10 times the day before.  Be sure you sound calm, confident, and sincere.  Practice enunciating your words, speaking up and making eye contact. Take out the filler word ("*Aum, Like, Well, So, Uh", etc)
 
 ## Follow up thank you email:
 
