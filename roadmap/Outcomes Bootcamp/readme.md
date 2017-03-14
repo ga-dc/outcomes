@@ -14,7 +14,7 @@
 
 ## Framing:
 
-Congrats, you graduated from GA’s Immersive Program!  We are so proud of all of your hard work and you should be too. We know that you may have a few additions to your resume and portfolio, or may want some additional practice to work on your pitch - we got you covered!  Come to the Outcomes Bootcamp to prepare for the Student Spotlight.  You won’t want to miss this as all the juicy secrets of what to expect and how to best sell your talents to employers will be shared!
+Congrats, you graduated from GA’s Immersive Program!  We are so proud of all of your hard work and you should be too. We know that you may have a few additions to your resume and portfolio, or may want some additional practice to work on your pitch - we got you covered!  Come to the Outcomes Bootcamp to prepare for the Student Spotlight.  You won’t want to miss this as all the juicy secrets of what to expect and how to best sell your talents to employers will be shared.
 
 ## Further Reading/ Resources:
 
