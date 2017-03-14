@@ -1,5 +1,7 @@
 # Outcomes Bootcamp     
 
+REMINDER: All outcomes materials MUST be complete by outcomes bootcamp 
+
 ## Learning Objectives:
 
 * Understand format for the student spotlight
