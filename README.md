@@ -3,7 +3,7 @@
 #### [Meet your Outcomes Team](https://github.com/ga-dc/outcomes/blob/master/outcomes-intro.md)
 #### [Outcomes Attendance](https://github.com/ga-dc/outcomes/blob/master/outcomes-attendance.md)
 #### [Outcomes Homework](https://github.com/ga-dc/outcomes/blob/master/homework.md)
-#### [One-on-ones and Office Hours] (https://github.com/ga-dc/outcomes/blob/master/one-on-ones.md) 
+#### [One-on-ones and Office Hours](https://github.com/ga-dc/outcomes/blob/master/one-on-ones.md) 
 ## Communication
 #### [Communicating with Outcomes](https://github.com/ga-dc/outcomes/blob/master/communicating-with-outcomes.md)
 ## Curriculum 
