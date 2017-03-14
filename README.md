@@ -8,6 +8,7 @@
 #### [Communicating with Outcomes](https://github.com/ga-dc/outcomes/blob/master/communicating-with-outcomes.md)
 ## Curriculum 
 #### [Outcomes Roadmap](https://github.com/ga-dc/outcomes/tree/master/roadmap)
+Be sure to check your course calendar as things may adjust slightly depending on your schedule
 - [week 1: Intro to Outcomes](https://github.com/ga-dc/outcomes/tree/master/roadmap/week01)
 - [week 2: Alumni Panel](https://github.com/ga-dc/outcomes/tree/master/roadmap/week02)
 - [week 3: Finding Your Voice and Defining your Brand](https://github.com/ga-dc/outcomes/tree/master/roadmap/week03)
@@ -18,5 +19,5 @@
 - [week 8: Sharing your Talents - GA Profiles + Portfolios](https://github.com/ga-dc/outcomes/tree/master/roadmap/week08)
 - [week 9: Catch your Breadth and Regroup](https://github.com/ga-dc/outcomes/tree/master/roadmap/week09)
 - [week 10: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)](https://github.com/ga-dc/outcomes/tree/master/roadmap/week10)
-- [week 11: Cracking the Technical Interview](https://github.com/ga-dc/outcomes/tree/master/roadmap/week11)
+- [week 11: Cracking the Technical Interview - WDI + DSI](https://github.com/ga-dc/outcomes/tree/master/roadmap/week11)
 - [week 12: Qualification Check-in](https://github.com/ga-dc/outcomes/tree/master/roadmap/week12)
