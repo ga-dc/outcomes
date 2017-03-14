@@ -24,4 +24,4 @@ As a certified coach, Joy has a passion for helping individuals live the life th
 
 **_Weekly Open Office Hours with Allyson Austin: Thursdays 5:30-8:30 PM  in RM 7_**
 
-**_Weekly Open Office Hours with Joy or Sarah: Friday 1 pm to 2 pm by the round tables_**
+**_Weekly Open Office Hours with Joy or Sarah: Tuesdays 5 pm to 6 pm + Friday 1 pm to 2 pm by the round tables_**
