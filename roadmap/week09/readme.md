@@ -10,7 +10,7 @@ Take advantage of this week to polish your Brand Statement, Resume, GA Profile, 
 
 ## Homework
 
-Homework due next Monday at 6 pm [Final GA Profile] (https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md) 
+Homework due next Monday at 6 pm [Final GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md) 
 
 ## Further Reading/ Resources:
 
