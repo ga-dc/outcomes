@@ -68,6 +68,9 @@ Check out these meet ups:
 
 - [Silver Spring AI/Machine Learning](https://www.meetup.com/Silver-Spring-AI-Machine-Learning-Enthusiast-Meetup/)
 
+- [Women Data Scienctists DC](https://www.meetup.com/WomenDataScientistsDC/)
+
+
 **Readings:**
 
 - [DC Tech Meet Up: How to Hack the DC Tech Ecosystem](https://hackpad.com/How-to-Hack-the-DC-Tech-Ecosystem-EYfL7X7gepL)
@@ -77,3 +80,5 @@ Check out these meet ups:
 - [The Muse: How to Ask for an Informational Interview and Get a Yes](https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes)
 
 - [The Muse: 3 Steps to a Perfect Informational Interview](https://www.themuse.com/advice/3-steps-to-a-perfect-informational-interview)
+
+- [Demystifying Data Science](https://datascopeanalytics.com/blog/demystifying-data-science/)
