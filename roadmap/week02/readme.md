@@ -14,7 +14,7 @@ We get it, this program is a lot, and can be intimidating. But don’t worry . .
 
 Your career coach will be available at the end of the panel for any 1:1 questions you have.
 ## Homework 
-See homework due next Monday at 6 pm: [What's my Brand Worksheet] (https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md) 
+See homework due next Monday at 6 pm: [What's my Brand Worksheet](https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md) 
 
 ## Further Reading/Resources:
 
