@@ -96,7 +96,7 @@ Now look at your list of likes/dislikes and choose your 3 non-negotiables. The 3
 - While you aren’t meeting with your coach, please work on outcomes materials!
 
 ## Homework 
-Homework due next Monday at 6 pm: [Final LinkedIn Profile] (https://github.com/ga-dc-outcomes/linkedin-profile) 
+Homework due next Monday at 6 pm: [Final LinkedIn Profile](https://github.com/ga-dc-outcomes/linkedin-profile) 
 
 ## Further Reading/ Resources: 
 
