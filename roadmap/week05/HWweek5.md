@@ -2,7 +2,7 @@
 
 - **DRAFT** Brand Statement
   - You will receive feedback on this within a week. Be sure to also get feedback from 3 of your classmates as well! 
-  - See the results from your What's Your [Brand Worksheet Part 2] (https://docs.google.com/forms/d/e/1FAIpQLSce8JwnNGsKec67J6yztKG335DJ0QaMXA3qkdTkrF1ccejHPg/viewform) to help create your draft brand statement
+  - See the results from your What's Your [Brand Worksheet Part 2](https://docs.google.com/forms/d/e/1FAIpQLSce8JwnNGsKec67J6yztKG335DJ0QaMXA3qkdTkrF1ccejHPg/viewform) to help create your draft brand statement
   - [Submit your homework through an issue here](https://github.com/ga-dc-outcomes/draft-brand-statement) 
 
 - Updated Linkedin Profile 
