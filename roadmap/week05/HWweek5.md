@@ -10,7 +10,7 @@ We know this is tough! Here's the step by step process to help you write your dr
 **Step 3: Build a statement that strings these benefits together concisely, powerfully and effectively.** 
 - Practice and wordsmith your statement to communicate your most authentic self that tells your story, highlights your strengths, and embodies who you are as a person and professional. This is going to be challenging! If you get stuck, we recommend creating lots of different versions. Check out https://profiles.generalassemb.ly/profiles for example brand statements.
   
-  - [Submit your homework through an issue here](https://github.com/ga-dc-outcomes/draft-brand-statement) 
+  - [Submit your draft brand statement through an issue here](https://github.com/ga-dc-outcomes/draft-brand-statement) 
   - You will receive feedback on this within a week. Be sure to also get feedback from 3 of your classmates as well! 
  
 - Updated Linkedin Profile 
