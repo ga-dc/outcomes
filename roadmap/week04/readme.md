@@ -175,7 +175,7 @@ Participated in full-time immersive Data Science course, completing in-class pro
 
 
 ## Homework 
-Homework due next Monday at 6 pm [Work on Resume and LinkedIn] (https://github.com/ga-dc/outcomes/blob/master/roadmap/week04/HWweek4WDI14.md)
+Homework due next Monday at 6 pm [Final Brand Statement + Draft Resume](https://github.com/ga-dc/outcomes/blob/master/roadmap/week04/HWweek4WDI14.md)
 
 ## Further Reading/Resources:
 
