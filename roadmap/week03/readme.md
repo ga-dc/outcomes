@@ -24,7 +24,7 @@ Guest presenter Mike Gardner will take you through an interactive workshop to an
 
 ## Homework: 
 
-See Homework due next week: [What's my Brand Worksheet Part 2] (https://github.com/ga-dc/outcomes/blob/master/roadmap/week04/HWweek4.md). 
+See Homework due next week: [Draft Brand Statement](https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md). 
 
 ## Further Reading/Resources:
 
