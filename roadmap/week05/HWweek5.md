@@ -8,7 +8,7 @@ We know this is tough! Here's the step by step process to help you write your dr
 - For example: The benefit of being a visionary could be that you inspire a team to move forward. The benefit of being a problem solver is that you don't stop until every hurdle is overcome. List as many benefits as you can think for each of your themes. 
   
 **Step 3: Build a statement that strings these benefits together concisely, powerfully and effectively.** 
-- Practice and wordsmith your statement to communicate your most authentic self that tells your story, highlights your strengths, and embodies who you are as a person and professional. This is going to be challenging! If you get stuck, we recommend creating lots of different versions. Check out [Example Brand Statements](https://profiles.generalassemb.ly/profiles?roles%5B%5D=Web%20Developer&roles%5B%5D=UX%20Designer&roles%5B%5D=Data%20Scientist&roles%5B%5D=Data%20Analyst&work_location=Washington%2C%20DC%2C%20United%20States.
+- Practice and wordsmith your statement to communicate your most authentic self that tells your story, highlights your strengths, and embodies who you are as a person and professional. This is going to be challenging! If you get stuck, we recommend creating lots of different versions. Check out [Example Brand Statements](https://profiles.generalassemb.ly/profiles?roles%5B%5D=Web%20Developer&roles%5B%5D=UX%20Designer&roles%5B%5D=Data%20Scientist&roles%5B%5D=Data%20Analyst&work_location=Washington%2C%20DC%2C%20United%20States).
   
   - [Submit your draft brand statement through an issue here](https://github.com/ga-dc-outcomes/draft-brand-statement) 
   - You will receive feedback on this within a week. Be sure to also get feedback from 3 of your classmates as well! 
