@@ -21,3 +21,9 @@ Be sure to check your course calendar as things may adjust slightly depending on
 - [week 10: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)](https://github.com/ga-dc/outcomes/tree/master/roadmap/week10)
 - [week 11: Cracking the Technical Interview - WDI + DSI](https://github.com/ga-dc/outcomes/tree/master/roadmap/week11)
 - [week 12: Qualification Check-in](https://github.com/ga-dc/outcomes/tree/master/roadmap/week12)
+
+Post Course Programming
+- [Portfolio Reviews WDI + DSI](https://github.com/ga-dc/outcomes/tree/master/roadmap/week13)
+- [Portfolio Reviews UXDI](https://github.com/ga-dc/outcomes/blob/master/roadmap/week11/UXDI/Week%2011%20UXDI%20-%20Outcomes%20to%20github%20(1).md) 
+- [Outcomes Bootcamp](https://github.com/ga-dc/outcomes/blob/master/roadmap/Outcomes%20Bootcamp/readme.md)
+- [Student Spotlight](https://github.com/ga-dc/outcomes/blob/master/roadmap/Student%20Spotlight/readme.md) 
