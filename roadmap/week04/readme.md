@@ -112,6 +112,9 @@ Paragraph 5: Call to Action and Contact Info.
 
 LinkedIn is an incredibly valuable tool that can completely shift your networking strategies 
 
+Find your career crushes and ask them to coffee.
+- Hi Name! I'm a current ABC student at GA and I'm looking to learn more about the tech field in DC. I was really impressed by your career path and would love to pick your brain. Would you be open to coffee (my treat) or quick phone call in the next couple of weeks? 
+
 Whenever you are interested in an organization, search to see if you have any 1st, 2nd, or 3rd degree connections to that organization, and then ask for a connection
 - Hi NAME! I hope everything is going well with you! As you may know, I've just started GA's XYZ immersive course, and I'm loving it so far! I'll soon be job searching and am looking to learn more about the tech field in DC. I saw that you are connected to ABC and I'm very interested in that organization, would you be willing to connect us? I've written an email below that you can copy and paste: 
 
