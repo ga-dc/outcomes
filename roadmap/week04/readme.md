@@ -181,6 +181,8 @@ Homework due next Monday at 6 pm [Final Brand Statement + Draft Resume](https://
 
 [Resume & Social Media Slide Deck](https://drive.google.com/open?id=0B2111_pgbRHrX1Vzd084N3JwYW8)
 
+[Enhance CV: Resume templates + feedback](https://enhancv.com/) 
+
 [The Muse: An Editor’s Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
 
 [UXBeginner.com: Complete Guide to UX Resumes + 3 Free Templates](http://www.uxbeginner.com/complete-guide-to-ux-resumes-and-a-free-template/)
