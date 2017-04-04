@@ -181,11 +181,14 @@ Homework due next Monday at 6 pm [Final Brand Statement + Draft Resume](https://
 
 [Resume & Social Media Slide Deck](https://drive.google.com/open?id=0B2111_pgbRHrX1Vzd084N3JwYW8)
 
-[Enhance CV: Resume templates + feedback](https://enhancv.com/) 
+Resume templates: 
+
+- [Enhance CV: Resume templates + feedback](https://enhancv.com/) 
+- [Word templates](https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now?utm_source=Sailthru&utm_medium=email&utm_term=Daily%20Email%20List&utm_campaign=275%20Free%20Resume%20Templates%20That%27ll%20Make%20Your%20Life%20Easier)
+- Google docs: [Google Doc Add-on VisualCV](https://www.visualcv.com/www/google-docs-resume-templates/)  + [Google Doc templates](https://docs.google.com/document/u/0/)
+- [UXBeginner.com: Complete Guide to UX Resumes + 3 Free Templates](http://www.uxbeginner.com/complete-guide-to-ux-resumes-and-a-free-template/)
 
 [The Muse: An Editor’s Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
-
-[UXBeginner.com: Complete Guide to UX Resumes + 3 Free Templates](http://www.uxbeginner.com/complete-guide-to-ux-resumes-and-a-free-template/)
 
 [Aline Lerner’s Blog: Lessons From a Year’s Worth of Hiring Data](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
 
