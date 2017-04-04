@@ -119,12 +119,12 @@ Whenever you are interested in an organization, search to see if you have any 1s
 - Hi NAME! I hope everything is going well with you! As you may know, I've just started GA's XYZ immersive course, and I'm loving it so far! I'll soon be job searching and am looking to learn more about the tech field in DC. I saw that you are connected to ABC and I'm very interested in that organization, would you be willing to connect us? I've written an email below that you can copy and paste: 
 
 ### Updating your LinkedIn 
-First of all, turn off notifications when you are making lots of edits (Profile Page > Halfway down the righthand side)
+First of all, turn off notifications when you are making lots of edits (Click your headshot > Settings + Privacy > Privacy tab > "Sharing Profile Edits" half way down the page)
+
+Make sure your contact information is listed
 
 Update your tagline (under your name)
 - Examples: Web Developer, Frontend Developer, Web Development Student at GA, User Experience Designer, Data Scientist. Even if you don't feel like it's true, put it up there! 
-
-Make sure your contact information is listed
 
 Once your resume is final, you can copy and paste the content into LinkedIn 
 
