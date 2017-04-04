@@ -132,7 +132,7 @@ Add your GA projects to your GA section
 - Use the "Add a section to your GA Profile" and then look for "Projects" 
 
 Ask for recommendations: former bosses, coworkers, clients 
-- You can use the recommendation section on LinkedIn and be sure to also follow up with a personalized note: 
+- You can use the [recommendation section on LinkedIn](https://www.linkedin.com/help/linkedin/answer/96/request-a-recommendation?lang=en) and be sure to also follow up with a personalized note: 
 - Example: Hi NAME, I hope everything is going well with you! As you may know, I've just started GA's XYZ immersive course, and I'm loving it so far! I'll soon be job searching and am looking to build up my LinkedIn profile, would you be willing to write me a recommendation? I'd be happy to draft some ideas for you if that's helpful. 
 
 [Here’s an example LinkedIn Profile](https://www.linkedin.com/in/christinemovius) to model
