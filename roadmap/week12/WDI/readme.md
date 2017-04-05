@@ -6,6 +6,9 @@
 
 * Get feedback on your materials
 
+## Submit your materials! 
+[Submit all materials here](https://github.com/ga-dc-outcomes/final-materials/blob/master/README.md)
+
 ## Framing:
 
 We know you are in the final sprint for your projects. All we need is 20 minutes of your time! We’ll all come together to go over everything that happens with outcomes post course, and then we'll meet with each of you for 10-15 minutes to check-in on your outcomes materials and give any last feedback.
