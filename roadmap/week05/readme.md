@@ -19,7 +19,7 @@ Come with 3 questions for our presenters. This will include a tour of the space 
 Don’t forget to connect with all speakers on LinkedIn and thank them for their time! 
 
 ## Homework: 
-Homework due next Monday at 6 pm: [Final LinkedIn Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week07/HWWeek7.md)
+Homework due next Monday at 6 pm: Review outcomes materials so far and ID 3 organizations you are interested in. DSI blog posts are due on Monday 
 
 
 
