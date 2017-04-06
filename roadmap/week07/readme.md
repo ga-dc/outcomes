@@ -203,7 +203,9 @@ After 10 min, we’ll switch roles.
 Open discussion - what worked/what didn’t. What do we need to practice moving forward?
 
 ## Homework 
-Homework due next Monday at 6 pm: [Final Resume](https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md) 
+- Review interview and negotiation materials below
+- Begin to work on your portfolio
+- You don't need to turn anything in next Monday 
 
 ## Further Reading/ Resources:
 
