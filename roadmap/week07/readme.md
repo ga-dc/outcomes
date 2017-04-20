@@ -203,9 +203,7 @@ After 10 min, we’ll switch roles.
 Open discussion - what worked/what didn’t. What do we need to practice moving forward?
 
 ## Homework 
-- Review interview and negotiation materials below
-- Begin to work on your portfolio
-- You don't need to turn anything in next Monday 
+Check your class calendar for your HW assingment due next Monday 
 
 ## Further Reading/ Resources:
 
