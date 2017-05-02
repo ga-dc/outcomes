@@ -2,7 +2,7 @@
 
 - FINAL Brand Statement
   - You should have gone through 3 Peer Reviews
-  - You will receive feedback on this within two weeks
+  - You will not receive feedback on this unless you specifically request it (we will look at your final brand statement if it's on your resume) 
   - Submit your final brand statement [through an issue here](https://github.com/ga-dc-outcomes/final-brand-statement)
 
 - DRAFT Resume
