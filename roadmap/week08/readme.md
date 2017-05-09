@@ -55,7 +55,7 @@ Login at [http://profiles.generalassemb.ly/profiles/new](http://profiles.general
 Create your draft GA Profile and time to meet 1:1 with your coach.
 
 ## Homework 
-Homework due next Monday at 6 pm: [Draft GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md)
+Homework due next Monday at 6 pm: [Final GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md)
 
 ## Further Reading/ Resources:
 
