@@ -13,15 +13,15 @@ We know this is tough! Here's the step by step process to help you write your dr
   - [Submit your draft brand statement through an issue here](https://github.com/ga-dc-outcomes/draft-brand-statement) 
   - You will receive feedback on this within a week. Be sure to also get feedback from 3 of your classmates as well! 
     - Here are some Examples: 
-    - "UX Designer driven by empathy and simplicity. My design skills and background in marketing, project management, front-end development, and content production allow me to craft thoughtful solutions that enhance people’s lives.” - PAT YAU
+    - "UX Designer driven by empathy and simplicity. My design skills and background in marketing, project management, front-end development, and content production allow me to craft thoughtful solutions that enhance people’s lives.” - Pat Yau
 
     - "Curious cat with an insatiable desire to understand. Driven by empathy and inspired by the iterative nature of the design process, I am committed to continuous learning for improvement. My inquisitive nature pushes me to be creative in seeking solutions as I aim to impact people through positive user experiences." -Sharon Choi 
 
-    - “I love bringing human connection and breathing life into the backlit screens we stare at every day. I’m a feeler. I’m a visual-thinker. I dive head-first. Craftsmanship is a key element in my work and I am a firm believer that if you approach every situation with empathy and compassion, the rest will fall into place.” - KATIE HUDAK
+    - “I love bringing human connection and breathing life into the backlit screens we stare at every day. I’m a feeler. I’m a visual-thinker. I dive head-first. Craftsmanship is a key element in my work and I am a firm believer that if you approach every situation with empathy and compassion, the rest will fall into place.” - Katie Hudak
 
-    - “Full-stack web developer and dancer who enjoys finding creative solutions for out of the ordinary problems. Passionate and inspired by visual aesthetics, good design, and clean, precise code. Driven to create interactive products shaped around human experience, expression, and intuitive, efficient functionality.” -- JAMIE KARLOVICH
+    - “Full-stack web developer and dancer who enjoys finding creative solutions for out of the ordinary problems. Passionate and inspired by visual aesthetics, good design, and clean, precise code. Driven to create interactive products shaped around human experience, expression, and intuitive, efficient functionality.” -- Jamie Karlovich 
 
-    - “I am a creative-minded, solutions-driven software developer with a passion for intuitive design and function. My previous experience as a full-time touring musician informs everything that I do: from my ability to adapt and adjust plans quickly to finding efficient, concise solutions for challenging problems.” -- BRENT RUSINOW
+    - “I am a creative-minded, solutions-driven software developer with a passion for intuitive design and function. My previous experience as a full-time touring musician informs everything that I do: from my ability to adapt and adjust plans quickly to finding efficient, concise solutions for challenging problems.” -- Brent Rusinow 
     - Our brand statements: 
     - "Joy Haugen has a passion for helping individuals live the life they have always imagined...whether that be a new career, tackling a new adventure, or finding that new tribe of powerhouse people to surround themselves with! Joy brings possibility and creativity to inspire others and make a difference." - Joy Haugen 
 
