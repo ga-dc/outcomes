@@ -27,5 +27,6 @@
 - [Final Resume](https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md)
 - [Draft GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md)
 - [Final GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md)
+- [All Final Materials](https://github.com/ga-dc-outcomes/final-materials) 
 
 
