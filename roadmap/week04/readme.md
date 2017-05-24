@@ -121,7 +121,7 @@ Whenever you are interested in an organization, search to see if you have any 1s
 ### Updating your LinkedIn 
 First of all, turn off notifications when you are making lots of edits (Click your headshot > Settings + Privacy > Privacy tab > "Sharing Profile Edits" half way down the page)
 
-Make sure your contact information is listed
+Make sure your contact information is listed (Click on your headshot > scroll down halfway down the page on the righthand side "Contact and Personal Info" 
 
 Update your tagline (under your name)
 - Examples: Web Developer, Frontend Developer, Web Development Student at GA, User Experience Designer, Data Scientist. Even if you don't feel like it's true, put it up there! 
