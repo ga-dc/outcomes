@@ -198,3 +198,5 @@ Resume templates:
 [Forbes: 9 Key Things the Hiring Manager is Looking for on Your Developer Resume](http://www.forbes.com/sites/dailymuse/2016/02/09/9-key-things-the-hiring-manager-is-looking-for-on-your-developer-resume/#2d0f465234e8)
 
 [How to ask for an Informational Interview and get a Yes](https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes)
+
+[Top 50 Skills Hiring Managers Look For](https://www.linkedin.com/pulse/here-skills-hiring-managers-50-linkedin-top-companies-pope-chappell?published=t)
