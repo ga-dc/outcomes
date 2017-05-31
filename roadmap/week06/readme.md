@@ -1,4 +1,4 @@
-# Week 6: Defining Your Job Search Requirements
+# Defining Your Job Search Requirements
 
 ## Learning Objectives:
 
@@ -96,7 +96,7 @@ Now look at your list of likes/dislikes and choose your 3 non-negotiables. The 3
 - While you aren’t meeting with your coach, please work on outcomes materials!
 
 ## Homework 
-Homework due next Monday at 6 pm: [Final Resume](https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md) 
+Check your class calendar for your HW due Monday at 6 pm 
 
 ## Further Reading/ Resources: 
 
