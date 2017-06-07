@@ -107,6 +107,7 @@ Paragraph 4: State why you BOTH are great and would be a good fit.
 Paragraph 5: Call to Action and Contact Info.
 
 * [Cover Letter Example](https://docs.google.com/document/d/1qTkcSgqzoS_WpvXirPhlctP5WDtZH40frIeL6jKv0ek/edit)
+* [Cover Letter Example](https://www.themuse.com/advice/the-perfect-cover-letter-template-to-show-off-your-skills)
 
 ## LinkedIn: (20/60) 
 
