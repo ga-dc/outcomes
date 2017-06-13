@@ -1,4 +1,4 @@
-# Week 1: Intro to Outcomes
+# Intro to Outcomes
 
 ## Learning Objectives:
 
@@ -64,4 +64,6 @@ By completing the worksheet you have submitted your homework this week.
 [Meet your Outcomes Team](https://github.com/ga-dc/outcomes/blob/master/outcomes-intro.md) 
 
 [Organizations that have hired GA Graduates](https://docs.google.com/spreadsheets/d/1LlQlDoVDDDuTvrg2poqFX-2X7zEilUhJy04DuytWwL4/edit#gid=357230139) 
+
+[GA Outcomes Report](https://generalassemb.ly/blog/general-assemblys-first-student-outcomes-report/)
 
