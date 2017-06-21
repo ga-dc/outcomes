@@ -1,4 +1,4 @@
-# FInal GA Profile 
+# Final GA Profile 
 
 - Final [GA Profile](http://profiles.generalassemb.ly/profiles/new)
   - Get 3 Peer Reviews Prior to submission
