@@ -1,4 +1,4 @@
-# Week 8: Publicly Exposed: Sharing Your Talents- GA Profiles + Portfolios
+# Publicly Exposed: Sharing Your Talents- GA Profiles + Portfolios
 
 ## Learning Objectives:
 
