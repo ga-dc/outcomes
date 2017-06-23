@@ -1,4 +1,4 @@
-# Week 4: The Winning Resume Package
+# The Winning Resume Package
 
 ## Learning Objectives:
 
