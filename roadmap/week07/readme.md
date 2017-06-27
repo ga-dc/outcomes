@@ -1,4 +1,4 @@
-# Week 7: Preparing for the Interview & Talking Money
+# Preparing for the Interview & Talking Money
 
 ## Learning Objectives:
 
