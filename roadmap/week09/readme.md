@@ -1,4 +1,4 @@
-# Week 9: Catch your Breath and Regroup  
+# Catch your Breath and Regroup  
 
 ## Learning Objectives:
 
@@ -6,11 +6,11 @@
 
 ## Framing:
 
-Take advantage of this week to polish your Brand Statement, Resume, GA Profile, and LinkedIn Profile. Bring all to outcomes this week for additional feedback. You will have the opportunity to have 1:1 support from Joy or Sarah.
+Take advantage of this week to polish your Brand Statement, Resume, GA Profile, LinkedIn Profile, and get your draft Portfolio in place. Bring all of these things to outcomes this week for additional feedback. You will have the opportunity to have 1:1 support from Joy or Sarah.
 
 ## Homework
 
-Homework due next Monday at 6 pm [Final GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md) 
+Check your Calendar for what's due next Monday at 6 pm 
 
 ## Further Reading/ Resources:
 
