@@ -1,5 +1,11 @@
 # Draft Brand Statement 
-We know this is tough! Here's the step by step process to help you write your draft. Remember that this is just a starting point: 
+We know this is tough! Remember that this is just a starting point. 
+
+  - [Submit your draft brand statement through an issue in the private repo here](https://github.com/ga-dc-outcomes/draft-brand-statement) 
+  - You will receive feedback on this within a week. Be sure to also get feedback from 3 of your classmates as well! 
+
+
+Here's the step by step process to help you write your draft. 
 
 **Step 1: Identify your top 5 themes** 
   - Look at the notes from the branding workshop, your personality test results, and your responses from the Branding Part 1 worksheet. What are the recurring themes? What are the ones that you have done consistently and effectively throughout your career and life and that you can defend with examples? (Examples: Leader, team-player, kind, generous, influencer, visionary, calm). 
@@ -9,9 +15,6 @@ We know this is tough! Here's the step by step process to help you write your dr
   
 **Step 3: Build a statement that strings these benefits together concisely, powerfully and effectively.** 
 - Practice and wordsmith your statement to communicate your most authentic self that tells your story, highlights your strengths, and embodies who you are as a person and professional. This is going to be challenging! If you get stuck, we recommend creating lots of different versions.
-  
-  - [Submit your draft brand statement through an issue here](https://github.com/ga-dc-outcomes/draft-brand-statement) 
-  - You will receive feedback on this within a week. Be sure to also get feedback from 3 of your classmates as well! 
     - Here are some Examples: 
     - "UX Designer driven by empathy and simplicity. My design skills and background in marketing, project management, front-end development, and content production allow me to craft thoughtful solutions that enhance people’s lives.” - Pat Yau
 
