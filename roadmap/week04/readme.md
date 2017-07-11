@@ -71,8 +71,8 @@ Review of previous successful resumes:
 * [WDI Resume Examples](https://drive.google.com/drive/folders/0BwHwzYWStKuafng5djhvTnltdEVFTDhFM2dwU1JyMm9jcmJFM3ltZ3lEWVZPOFFWWGdEeTA/0B0cuNYi34jyufm9jY1ZNTkdWTE5VMU5pbDlBYkxjVmVjY1p4UzN3LVJQd2c0Wi1CRm1WSkE/0B0cuNYi34jyufmgxOWtkSGNhRHFQX2tudXJUOXlFdXV3djNSTDV2MXlJNnhMaGgtNnp6NVE)
 
 * [UXDI Resume Examples](https://drive.google.com/drive/folders/0BwHwzYWStKuafng5djhvTnltdEVFTDhFM2dwU1JyMm9jcmJFM3ltZ3lEWVZPOFFWWGdEeTA/0B0cuNYi34jyufm9jY1ZNTkdWTE5VMU5pbDlBYkxjVmVjY1p4UzN3LVJQd2c0Wi1CRm1WSkE/0B0cuNYi34jyufmU3UE5hblBUS1hjTFZ1VkRTT2hveHB6TXlxT29JQkdUYzlhbmprdFluR0k)
-    -[Kelly Molloy](https://kellymolloy.myportfolio.com/resume) 
-    -[Kelli Sippola](https://static1.squarespace.com/static/590f8c3ad2b8578e64766475/t/5938ad93ebbd1a08e23d92cf/1496886676154/UI+RESUME.pdf)
+    * [Kelly Molloy](https://kellymolloy.myportfolio.com/resume) 
+    * [Kelli Sippola](https://static1.squarespace.com/static/590f8c3ad2b8578e64766475/t/5938ad93ebbd1a08e23d92cf/1496886676154/UI+RESUME.pdf)
 
 * [DSI Resume Examples](https://drive.google.com/open?id=0B2111_pgbRHrWDhjME1OR21jNWM)
 
