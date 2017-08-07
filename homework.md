@@ -23,6 +23,7 @@
 - [What’s My Brand Worksheet](https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md)
 - [Draft Brand Statement](https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md)
 - [Final Brand Statement + Draft Resume](https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md)
+- [Draft Cover Letter](https://github.com/ga-dc-outcomes/cover-letter)
 - [Final LinkedIn Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week07/HWWeek7.md)
 - [Final Resume](https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md)
 - [Draft GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md)
