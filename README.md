@@ -17,7 +17,7 @@ Be sure to check your course calendar as things may adjust slightly depending on
 - [week 6: Defining Your Job Search Requirements](https://github.com/ga-dc/outcomes/tree/master/roadmap/week06)
 - [week 7: Preparing for the Interview and Talking Money](https://github.com/ga-dc/outcomes/tree/master/roadmap/week07)
 - [week 8: Sharing your Talents - GA Profiles + Portfolios](https://github.com/ga-dc/outcomes/tree/master/roadmap/week08)
-- [week 9: Catch your Breadth and Regroup](https://github.com/ga-dc/outcomes/tree/master/roadmap/week09)
+- [week 9: Catch your Breath and Regroup](https://github.com/ga-dc/outcomes/tree/master/roadmap/week09)
 - [week 10: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)](https://github.com/ga-dc/outcomes/tree/master/roadmap/week10)
 - [week 11: Cracking the Technical Interview - WDI + DSI](https://github.com/ga-dc/outcomes/tree/master/roadmap/week11)
 - [week 12: Qualification Check-in](https://github.com/ga-dc/outcomes/tree/master/roadmap/week12)
