@@ -46,12 +46,13 @@ Our vision is put into action through programs and activities that foster profes
 * To be honest with you 
 
 ## In order to receive outcomes support you must: 
-* Graduate from your immersive 
-* Have the following completed no later than Outcomes Bootcamp (1 week after graduation): 
+* Graduate from your immersive and show up to Outcomes
+* Have the following completed and signed off by Outcomes: 
 * Resume 
 * LinkedIn 
 * GA Profile 
-* Portfolio
+* Portfolio/Static Website
+* Blogs (DSI)
 
 ## Homework
 Homework due next Monday at 6 pm [Vision + Goals worksheet](https://docs.google.com/forms/d/e/1FAIpQLSfqbvid4X8m_bOR-9SH_l12EFr2u7kDfjZ09rwR8axMTeK8hA/viewform?usp=sf_link). 
