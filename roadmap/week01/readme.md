@@ -8,7 +8,7 @@
 
 * Begin to create your future vision 
 
-[Be sure to read our full presentation here](https://drive.google.com/open?id=0B2111_pgbRHrVUotdWJGZk4xOVk) 
+[Be sure to read our full presentation here](https://drive.google.com/open?id=0B2111_pgbRHrM004MkZYSUZKaDg) 
 
 Here at GA we pride ourselves on innovation and approaching things in a unique and exciting way. This is no different when approaching career development and the process towards achieving outcomes success. 
 
