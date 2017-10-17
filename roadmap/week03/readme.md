@@ -24,7 +24,7 @@ Guest presenter Mike Gardner will take you through an interactive workshop to an
 
 ## Homework: 
 
-See Homework due next week: [Draft Brand Statement](https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md). 
+See your class calendar for the Homework due next Monday at 7 pm (Outcomes homework is always listed the day it's due)
 
 ## Further Reading/Resources:
 
