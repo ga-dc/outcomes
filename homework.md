@@ -26,7 +26,6 @@
 - [Draft Cover Letter](https://github.com/ga-dc-outcomes/cover-letter)
 - [Final LinkedIn Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week07/HWWeek7.md)
 - [Final Resume](https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md)
-- [Draft GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md)
 - [Final GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md)
 - [Portfolio](https://github.com/ga-dc-outcomes/portfolio)
 - [All Final Materials](https://github.com/ga-dc-outcomes/final-materials) 
