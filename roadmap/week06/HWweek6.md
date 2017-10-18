@@ -1,7 +1,7 @@
 # Final Brand Statement + Draft Resume 
 
 - DRAFT Resume
-  - Content only, don’t worry about this needing to look perfect - just get something started 
+  - Don’t worry about this needing to look perfect - just get something started 
   - You will receive feedback on this within two weeks 
   
 - FINAL Brand Statement
