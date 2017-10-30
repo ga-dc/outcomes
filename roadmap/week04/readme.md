@@ -98,18 +98,17 @@ Format:
 
 Use the same heading as your resume {Name, phone number, email, location (just city, state), link to portfolio}
 
-Paragraph 1: Say what you are applying for and how you heard about the organization. 
+Paragraph 1: Say what you are applying for and how you heard about the organization. Make sure to include your thesis statement about why they should hire you and why you are the best fit for the organization 
 
-Paragraph 2: State why THEY are great. 
+Paragraph 2 + 3: Use these paragraphs to give specific examples to support your thesis statement. Do NOT just reiterate what's in your resume. Choose 2 stories to share that SHOW your strengths, rather than just telling them. 
 
-Paragraph 3: State why YOU are great. 
+Paragraph 4: Reiterate what you said in your first paragraph (highlight your overarching reasons why they should hire you) 
 
-Paragraph 4: State why you BOTH are great and would be a good fit. 
-
-Paragraph 5: Call to Action and Contact Info.
+Paragraph 5: Call to Action and Contact Info. Avoid phrases like "Hope you will consider me" be confident and own it! 
 
 * [Cover Letter Example](https://docs.google.com/document/d/1qTkcSgqzoS_WpvXirPhlctP5WDtZH40frIeL6jKv0ek/edit)
 * [Cover Letter Example](https://www.themuse.com/advice/the-perfect-cover-letter-template-to-show-off-your-skills)
+* [Cover Letter Examples (previous students)](https://docs.google.com/document/d/1enAe4itJsFMKF6iO8JO3TbdIXg8uW4TKvuIZrlH3b-A/edit) 
 
 ## LinkedIn: (20/60) 
 
