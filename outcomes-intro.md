@@ -22,6 +22,12 @@ Sarah’s passionate about creatively inspiring individuals to make a difference
 
 As a certified coach, Joy has a passion for helping individuals live the life they have always imagined...whether that be a new career, tackling a new adventure, or finding that new tribe of powerhouse people to surround themselves with! Joy brings possibility and creativity and is stoked to work with you at GA! Prior to GA, Joy lead a 350+ person Student Program for MITRE, a systems engineering research and development government organization where she worked to engage both internal and external leaders on the importance of STEM workforce. Prior to MITRE, Joy worked for Quad/Graphics, a $7B global industry leader of multi-channel communications solutions as a Management Trainee, which rotates college graduates through various departments in order to build the skills necessary to become future leaders of the company. She partnered with clients like: Nat Geo, People, Time, US News, and Politico. Joy graduated from Creighton University and has been rowing since high school. Fun Fact: Joy has moved every year of her life around the country and loves to travel!  
 
-**_Weekly Open Office Hours with Allyson Austin: Thursdays 5:30-8:30 PM  in RM 7_**
+### Shahier 
+- Partnerships Specialst 
+- [shahier@ga.co](mailto:shahier@ga.co)
+
+Shahier Rahman is the partnerships specialist for General Assembly DC. He was previously the regional business development manager for DC incubator and venture fund 1776. Before moving to DC, Shahier co-founded Central Florida's first tech incubator, Canvs. When he's not connecting startups with political, intellectual, social and financial capital in Washington, DC, you can find him doing stand-up comedy in dive bars around town.
+
+**_Weekly Open Office Hours with Allyson Austin: Tuesdays 5:30-8:30 PM  in RM 7_**
 
 **_Weekly Open Office Hours with Joy or Sarah: Tuesdays 5 pm to 6 pm + Friday 1 pm to 2 pm by the round tables_**
