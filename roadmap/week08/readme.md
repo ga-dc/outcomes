@@ -12,13 +12,13 @@
 
 * Best practices in creating a portfolio 
 
-## Framing: (5/5)
+## Framing: 
 
 Your portfolio and GA Profiles are the most critical pieces of your public image in securing a job. Online Alumni Profiles are the best way for GA’s employment partners to reach you directly regarding new opportunities! This session is dedicated to showing best practices for your portfolio and building your GA Alumni Profile utilizing your Brand Statement, Resume and Job Search Strategy.
 
 ## Portfolio:
 
-## I do: (20/25)
+## I do: 
 
 **What makes a great portfolio**
 
@@ -72,15 +72,15 @@ Your portfolio and GA Profiles are the most critical pieces of your public image
 
 * Contact page: Links to your Resume, LinkedIn, Github and contact information
 
-* WDI students: Each project should have a description sharing what the project does and what languages you used
+* **WDI students:** Each project should have a description sharing what the project does and what languages you used
 
-* UX students: Each project should have a detailed case study that is scannable
+* **UX students:** Each project should have a detailed case study that is scannable
 
-* DSI students: Each project should have a description that highlights your methodology and process
+* **DSI students:** Each project should have a description that highlights your methodology and process
 
 **Options to Create a Portfolio:**
 
-Below are a few options that we recommend you consider when creating your portfolio. You can choose your preference but encourage you to think about what is the easiest way to create and maintain it given all of your current responsibilities in class. They are listed in the order of easiest to most complicated.
+Below are a few options that we recommend you consider when creating your portfolio. You can choose your preference but encourage you to think about what is the easiest way to create and maintain it given all of your current responsibilities in class. They are listed in the order of easiest to most complicated. **WDI Students should code your own site**
 
 [Carrd](https://carrd.co/)
 
@@ -156,7 +156,7 @@ When writing about your project, here are some questions to keep in mind.
 
 We’ll walk you through best practices in creating your GA profile. It is handy to have your updated resume handy.
 
-## You do: (60/75)
+## You do: 
 
 Create your draft GA Profile.  You will need to use the email address that you signed up for GA with to access GA Profiles.
 
@@ -206,8 +206,8 @@ Example Portfolios:
 
 
 **Portfolio Resources:**
-[Build a Data Science Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
-* [Build a Data Science Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
+
+* [Build a Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
 
 * [35 (More!) of the Best Personal Websites We've Ever Seen](https://www.themuse.com/advice/35-more-of-the-best-personal-websites-weve-ever-seen?utm_source=Sailthru&utm_medium=email&utm_campaign=35%20%28More%21%29%20of%20the%20Best%20Personal%20Websites%20We%27ve%20Ever%20Seen&utm_term=Daily%20Email%20List)
 
