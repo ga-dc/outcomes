@@ -23,53 +23,37 @@ Your portfolio and GA Profiles are the most critical pieces of your public image
 **What makes a great portfolio**
 
 * Simple, but effective
-
 * Clean and professional
-
 * Shows your unique personality
 
 **Goals of a Portfolio:**
 
 * Designed to solve a problem for a user
-
 * Showcases personal brand and unique attributes
-
 * Consistent output across multiple medias
-
 * Projects presented are quality over quantity
-
 * Demonstrates technical skill
-
 * Depth of process communicated effectively
-
 * Shows impact of work and validation
-
 * Your role is clear vs. others’ roles in projects
-
 * Build trust with employers (prove you can do the work that they need you to do)
 
 **Portfolios should communicate:**
 
 * Who you are and what you do
-
 * What you have worked on
-
 * How to contact you
 
 **Audience:**
 
 * Future Employers (Hiring Managers/Recruiters/Data Scientists)
-
 * People who are curious about your skills
 
 **The Parts to Your Portfolio & Must Haves:**
 
 * Initial page that pulls reader in for more information, create a tease so they want more
-
 * About page: Headshot, short description (brand statement + a bit more), should be clear who you are and what you do
-
 * Each project should have a description that highlights your methodology and process with a screenshot
-
 * Contact page: Links to your Resume, LinkedIn, Github and contact information
 
 * **WDI students:** Each project should have a description sharing what the project does and what languages you used
