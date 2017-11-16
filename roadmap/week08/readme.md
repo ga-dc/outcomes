@@ -216,7 +216,7 @@ Homework due next Monday at 6 pm: [Final GA Profile](https://github.com/ga-dc/ou
 * [Components of a Portfolio](https://www.quora.com/What-is-a-good-way-for-a-data-scientist-to-construct-an-online-portfolio)
 
 
-** Example GA Alumni Profiles:** 
+**Example GA Alumni Profiles:** 
 
 * [Alex Winn](https://profiles.generalassemb.ly/profiles/alex-winn)
 
