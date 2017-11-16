@@ -80,50 +80,39 @@ Your portfolio and GA Profiles are the most critical pieces of your public image
 
 **Options to Create a Portfolio:**
 
-Below are a few options that we recommend you consider when creating your portfolio. You can choose your preference but encourage you to think about what is the easiest way to create and maintain it given all of your current responsibilities in class. They are listed in the order of easiest to most complicated. **WDI Students should code your own site**
+Below are a few options that we recommend you consider when creating your portfolio. You can choose your preference but encourage you to think about what is the easiest way to create and maintain it given all of your current responsibilities in class. They are listed in the order of easiest to most complicated. 
+* **WDI Students should code your own site**
 
 [Carrd](https://carrd.co/)
 
 * Custom Domain
-
 * Easy to set up and navigate
-
 * $19/year
 
 [Wix](https://www.wix.com/)
 
 * Custom Domain
-
 * Customizable
-
 * $14/month
 
 [Squarespace](https://www.squarespace.com/)
 
 * Custom Domain
-
 * Customizable
-
 * $12/month
 
 [WordPress](https://wordpress.com/)
 
 * Custom Domain
-
 * Customizable
-
 * Involves coding
-
 * $4/month
 
 [Deploying Bootstrap](https://github.com/josephofiowa/GWDATA/blob/master/deploy-bootstrap/readme.md)
 
 * Custom Domain
-
 * Customizable
-
 * Code from scratch
-
 * Free
 
 ## Project Best Practices:
@@ -177,13 +166,16 @@ Example Portfolios:
 
 **WDI:**
 
-[http://jschultz.co/](http://jschultz.co/)
+* [Julia Schultz](http://jschultz.co/)
 
-[https://pamelaolney.github.io/](https://pamelaolney.github.io/)
+* [Pamela Olney](https://pamelaolney.github.io/)
 
-[http://design.mcoyle.com/](http://design.mcoyle.com/)
+* [Megan Coyle](http://design.mcoyle.com/)
 
-[https://zorba-strange.github.io/portfolio/](https://zorba-strange.github.io/portfolio/)
+* [Megan Coyle](http://design.mcoyle.com/)
+
+* [Winston Davis McLean](https://zorba-strange.github.io/portfolio/)
+
 
 **UXDI:**
 
