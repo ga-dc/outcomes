@@ -57,15 +57,15 @@ Your portfolio and GA Profiles are the most critical pieces of your public image
 * Contact page: Links to your Resume, LinkedIn, Github and contact information
 
 * **WDI students:** Each project should have a description sharing what the project does and what languages you used
-
 * **UX students:** Each project should have a detailed case study that is scannable
-
 * **DSI students:** Each project should have a description that highlights your methodology and process
+
 
 **Options to Create a Portfolio:**
 
 Below are a few options that we recommend you consider when creating your portfolio. You can choose your preference but encourage you to think about what is the easiest way to create and maintain it given all of your current responsibilities in class. They are listed in the order of easiest to most complicated. 
-* **WDI Students should code your own site**
+
+**WDI Students should code your own site**
 
 [Carrd](https://carrd.co/)
 
