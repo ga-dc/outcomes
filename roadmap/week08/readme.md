@@ -162,7 +162,7 @@ Homework due next Monday at 6 pm: [Final GA Profile](https://github.com/ga-dc/ou
 
 ## Further Reading/ Resources:
 
-Example Portfolios:
+**Example Portfolios:**
 
 **WDI:**
 
@@ -172,29 +172,29 @@ Example Portfolios:
 
 * [Megan Coyle](http://design.mcoyle.com/)
 
-* [Megan Coyle](http://design.mcoyle.com/)
-
 * [Winston Davis McLean](https://zorba-strange.github.io/portfolio/)
 
 
 **UXDI:**
 
-[https://www.sharonchoi.design/](https://www.sharonchoi.design/)
+* [Acecia Thomas-Baker](http://www.acecia.design/)
 
-[http://jbrockett.design/](http://jbrockett.design/)
+* [Colyn Irvine](http://www.colynirvine.com/)
 
-[http://www.colynirvine.com/](http://www.colynirvine.com/)
+* [Sharon Choi](https://www.sharonchoi.design/)
 
-[http://www.acecia.design/](http://www.acecia.design/)
+* [Tim Rittenhouse](https://www.timrittenhouse.com/)
+
 
 **DSI:**
 
-[http://www.emilyschuch.com/](http://www.emilyschuch.com/)
+* [Cody Laminack](https://www.codylaminack.com/)
 
-[http://www.codylaminack.com/](http://www.codylaminack.com/)
+* [David Ortiz](https://ortizdav18.github.io/My_Website/)
 
-[https://sambozek.github.io/capstone.html#capstone](https://sambozek.github.io/capstone.html#capstone)
+* [Emily Schuch](http://www.emilyschuch.com/)
 
+* [Michael Sanders](https://michaeljsanders.com/portfolio/)
 
 
 **Portfolio Resources:**
@@ -216,18 +216,20 @@ Example Portfolios:
 * [Components of a Portfolio](https://www.quora.com/What-is-a-good-way-for-a-data-scientist-to-construct-an-online-portfolio)
 
 
-**GA Alumni Profile Examples:** 
+** Example GA Alumni Profiles:** 
 
-[https://profiles.generalassemb.ly/profiles/alex-winn](https://profiles.generalassemb.ly/profiles/alex-winn)
+* [Alex Winn](https://profiles.generalassemb.ly/profiles/alex-winn)
 
-[https://profiles.generalassemb.ly/profiles/ramya-ramaswamy](https://profiles.generalassemb.ly/profiles/ramya-ramaswamy)
+* [Cody Laminack](https://profiles.generalassemb.ly/cody-laminack)
 
-[https://profiles.generalassemb.ly/melissa-steffan](https://profiles.generalassemb.ly/melissa-steffan)
+* [Faith Burt](https://profiles.generalassemb.ly/faith-burt)
 
-[https://profiles.generalassemb.ly/john-blakeman](https://profiles.generalassemb.ly/john-blakeman)
+* [Haley Boyan](https://profiles.generalassemb.ly/profiles/hboyan)
 
-[https://profiles.generalassemb.ly/faith-burt](https://profiles.generalassemb.ly/faith-burt)
+* [John Blakeman](https://profiles.generalassemb.ly/john-blakeman)
 
-[https://profiles.generalassemb.ly/profiles/hboyan](https://profiles.generalassemb.ly/profiles/hboyan)
+* [Melissa Steffan](https://profiles.generalassemb.ly/melissa-steffan)
 
-[https://profiles.generalassemb.ly/cody-laminack](https://profiles.generalassemb.ly/cody-laminack)
+* [Ramya Ramaswamy ](https://profiles.generalassemb.ly/profiles/ramya-ramaswamy)
+
+* [Thomas Plapinger](https://profiles.generalassemb.ly/profiles/thomas-plapinger)
