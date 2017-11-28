@@ -108,17 +108,15 @@ When writing about your project, here are some questions to keep in mind.
 * Why does this question matter?
 * What research did you do?
 * Where did you get the research materials?
-* How was the research sampled?
-* How was the data obtained?
-* How did you explore the data?
-* How did you model the data?
-* Why did you choose to model it that way?
+* How will the research/project be utilized?
+* How did you explore the research/project?
+* How did you model the research/project?
+* Why did you choose to structure the project the way you did?
 * What code did you write / use?
-* How did you fit the model?
-* How did you validated the model?
-* How did you know the results would make sense?
-* How did you visualize the results?
-* How you would communicate the results to others?
+* How did you compile the project?
+* How did you know the results/project would make sense?
+* How did you visualize the results/project?
+* How you would communicate the results/project to others?
 * What did you learn?
 * What you would do differently if you did this project again?
 * If you were going to continue this work, what next steps would you take with this project?
