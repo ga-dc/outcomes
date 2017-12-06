@@ -24,6 +24,8 @@ Check out these meet ups:
 
 - [DC Tech MeetUp](https://www.meetup.com/DC-Tech-Meetup/)
 
+- [DC Tech Slack Channel](http://dctech.chat/)
+
 - [Tech in Motion](http://www.techinmotionevents.com/)
 
 - [1776 ](http://www.1776.vc/events/)
@@ -42,6 +44,12 @@ Check out these meet ups:
 
 - [Open IDEO](http://www.meetup.com/OpenIDEO-DC/)
 
+- [NoVAUX](https://www.meetup.com/nova-ux/)
+
+- [UXDC](https://www.meetup.com/UXD-DC/)
+
+- [UX Book Club](https://www.meetup.com/Washington-DC-UX-Book-Club/)
+
 **WDI:**
 
 - [Code for DC](http://www.meetup.com/Code-for-DC/)
@@ -53,6 +61,16 @@ Check out these meet ups:
 - [Silver Spring Ruby MeetUp](http://www.meetup.com/United-Silver-Spring-Ruby/)
 
 - [Women Who Code ](https://www.womenwhocode.com/dc)
+
+- [DC JS](https://www.meetup.com/DC-JavaScript/)
+
+- [node.dc](https://www.meetup.com/node-dc/)
+
+- [CodePen](https://nvite.com/CodePenDC/df1)
+
+- [Color Coded](https://www.meetup.com/colorcoded/)
+
+- [Black Code Collective](https://www.meetup.com/Black-Code-Collective/)
 
 **DSI:**
 
