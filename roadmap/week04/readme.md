@@ -16,7 +16,21 @@
 
 We know that you likely don’t know yet what you want to do or where to even begin with your resume; that’s okay! Our goal today is to show you what success looks like, and to get your content into a draft that you can continue to work on.
 
-## I do: (10/15) 
+## We do: (15/20) 
+
+[6 second test (game)](https://resumegenius.com/6-second-resume-challenge)
+
+Review of previous successful resumes:
+
+* [WDI Resume Examples](https://drive.google.com/drive/folders/0BwHwzYWStKuafng5djhvTnltdEVFTDhFM2dwU1JyMm9jcmJFM3ltZ3lEWVZPOFFWWGdEeTA/0B0cuNYi34jyufm9jY1ZNTkdWTE5VMU5pbDlBYkxjVmVjY1p4UzN3LVJQd2c0Wi1CRm1WSkE/0B0cuNYi34jyufmgxOWtkSGNhRHFQX2tudXJUOXlFdXV3djNSTDV2MXlJNnhMaGgtNnp6NVE)
+
+* [UXDI Resume Examples](https://drive.google.com/drive/folders/0BwHwzYWStKuafng5djhvTnltdEVFTDhFM2dwU1JyMm9jcmJFM3ltZ3lEWVZPOFFWWGdEeTA/0B0cuNYi34jyufm9jY1ZNTkdWTE5VMU5pbDlBYkxjVmVjY1p4UzN3LVJQd2c0Wi1CRm1WSkE/0B0cuNYi34jyufmU3UE5hblBUS1hjTFZ1VkRTT2hveHB6TXlxT29JQkdUYzlhbmprdFluR0k)
+    * [Kelly Molloy](https://kellymolloy.myportfolio.com/resume) 
+    * [Kelli Sippola](https://static1.squarespace.com/static/590f8c3ad2b8578e64766475/t/5938ad93ebbd1a08e23d92cf/1496886676154/UI+RESUME.pdf)
+
+* [DSI Resume Examples](https://drive.google.com/open?id=0B2111_pgbRHrWDhjME1OR21jNWM)
+
+## I do: (10/30) 
 
 **The secret six:**
 
@@ -62,21 +76,7 @@ Do your research - your resume is your personal advertisement
 
     6. Anything else that you are really proud of that you’d like to share
 
-## We do: (15/30) 
-
-[6 second test (game)](https://resumegenius.com/6-second-resume-challenge)
-
-Review of previous successful resumes:
-
-* [WDI Resume Examples](https://drive.google.com/drive/folders/0BwHwzYWStKuafng5djhvTnltdEVFTDhFM2dwU1JyMm9jcmJFM3ltZ3lEWVZPOFFWWGdEeTA/0B0cuNYi34jyufm9jY1ZNTkdWTE5VMU5pbDlBYkxjVmVjY1p4UzN3LVJQd2c0Wi1CRm1WSkE/0B0cuNYi34jyufmgxOWtkSGNhRHFQX2tudXJUOXlFdXV3djNSTDV2MXlJNnhMaGgtNnp6NVE)
-
-* [UXDI Resume Examples](https://drive.google.com/drive/folders/0BwHwzYWStKuafng5djhvTnltdEVFTDhFM2dwU1JyMm9jcmJFM3ltZ3lEWVZPOFFWWGdEeTA/0B0cuNYi34jyufm9jY1ZNTkdWTE5VMU5pbDlBYkxjVmVjY1p4UzN3LVJQd2c0Wi1CRm1WSkE/0B0cuNYi34jyufmU3UE5hblBUS1hjTFZ1VkRTT2hveHB6TXlxT29JQkdUYzlhbmprdFluR0k)
-    * [Kelly Molloy](https://kellymolloy.myportfolio.com/resume) 
-    * [Kelli Sippola](https://static1.squarespace.com/static/590f8c3ad2b8578e64766475/t/5938ad93ebbd1a08e23d92cf/1496886676154/UI+RESUME.pdf)
-
-* [DSI Resume Examples](https://drive.google.com/open?id=0B2111_pgbRHrWDhjME1OR21jNWM)
-
-Writing sucessful bullets: 
+**Writing sucessful bullets:** 
 
 - Begin with verbs (Developed, Created, Designed, Managed, Led), and be sure to vary them 
 
@@ -156,6 +156,7 @@ Ask for recommendations: former bosses, coworkers, clients
 Begin your draft resume
 
 - Here are templates you can [use in word](https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now?utm_source=Sailthru&utm_medium=email&utm_term=Daily%20Email%20List&utm_campaign=275%20Free%20Resume%20Templates%20That%27ll%20Make%20Your%20Life%20Easier) and Google docs: [Google Doc Add-on VisualCV](https://www.visualcv.com/www/google-docs-resume-templates/)  + [Google Doc templates](https://docs.google.com/document/u/0/)
+-Or: [Canva](https://www.canva.com/create/resumes/)
 
 - GA sample descriptions (please don’t just copy and paste - add your own voice to this!):
 
@@ -176,8 +177,6 @@ Full-time immersive User Experience Design program that included over 500 hours 
 Data Science Immersive Student
 
 Participated in full-time immersive Data Science course, completing in-class projects, Kaggle competitions, and personal projects focused on real-world applications of data science principles and best practices. Acquired, cleaned, and explored large datasets using Python, SQL, and Tableau in order to present findings to both technical and non-technical audiences. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
-
-
 
 ## Homework 
 Homework due next Monday at 6 pm [Final Brand Statement + Draft Resume](https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md)
