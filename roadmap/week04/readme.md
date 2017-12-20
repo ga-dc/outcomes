@@ -193,11 +193,15 @@ Resume templates:
 - Google docs: [Google Doc Add-on VisualCV](https://www.visualcv.com/www/google-docs-resume-templates/)  + [Google Doc templates](https://docs.google.com/document/u/0/)
 - [UXBeginner.com: Complete Guide to UX Resumes + 3 Free Templates](http://www.uxbeginner.com/complete-guide-to-ux-resumes-and-a-free-template/)
 
+[LinkedIn Checklist](https://docs.google.com/document/d/1dc7ClbO6epNbWE_JAvtWr-Xj1k2WKR6WgzESwOm2TY0/edit?usp=sharing)
+
 [The Muse: An Editor’s Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
 
 [Aline Lerner’s Blog: Lessons From a Year’s Worth of Hiring Data](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
 
 [Forbes: 9 Key Things the Hiring Manager is Looking for on Your Developer Resume](http://www.forbes.com/sites/dailymuse/2016/02/09/9-key-things-the-hiring-manager-is-looking-for-on-your-developer-resume/#2d0f465234e8)
+
+[185 Powerful Verbs That Will Make your Resume Awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)
 
 [How to ask for an Informational Interview and get a Yes](https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes)
 
