@@ -1,4 +1,4 @@
-# Outcomes HW Week 2: Vision + Goals Worksheet 
+# Vision + Goals Worksheet 
 
 - Complete the [Vision + Goals Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSfqbvid4X8m_bOR-9SH_l12EFr2u7kDfjZ09rwR8axMTeK8hA/viewform)
 
