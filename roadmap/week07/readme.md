@@ -229,7 +229,9 @@ Check your class calendar for your HW assingment due next Monday
 
 [99U: 5 Real-Life Salary Negotiations (And What You Can Learn From Them)](http://99u.com/articles/52075/5-real-life-salary-negotiations-and-what-you-can-learn-from-them?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%2011/22/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
 
-[Paysa](https://www.paysa.com/)  
+[Paysa](https://www.paysa.com/) 
+
+[Think about this to earn more](https://medium.com/personal-growth/want-to-earn-more-ask-yourself-these-questions-1b711ffe7be5) 
 
 **Interviewing:**
 
