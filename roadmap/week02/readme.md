@@ -52,6 +52,8 @@ Check out these meet ups:
 
 **WDI:**
 
+- [Great Calendar of Tech Events](http://www.dctechcal.com/)
+
 - [Code for DC](http://www.meetup.com/Code-for-DC/)
 
 - [Code and Coffee](http://www.meetup.com/NoVA-Code-Coffee/)
