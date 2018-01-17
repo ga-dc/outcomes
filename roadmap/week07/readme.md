@@ -48,25 +48,18 @@ This is not an interrogation! Success will come from creating connection and a r
 
     * For each skill, provide details about why this is a skill of yours
 
-    * Give an example  
-
-* Use the SEX approach:
-
-    * **S**tatement
-
-    * **E**xplanation
-
-    * E**x**ample (1 or 2 examples to illustrate a skill)
-
+    * Give an example 
+    
 * Have at least 3 professional stories ready to share (these can also be the examples for the skills - you can use these for answer to other questions)
 
-    * Each story should have:
+* Use the STAR Method: 
+   * **S**ituation - provide the context and background "Our customers complained..." 
 
-    * Beginning - situation, set the scene
+   * **T**ask - describe the problem and challenges "We faced supply chain shortage.." 
 
-    * Middle - what was the challenge, what did you do about it?
+   * **A**ction - explaine what you did to solve it and how "I solved it by..."
 
-    * End- what were the results? Learnings? Benefits?
+   * **R**esults - state benefits, savings, rewards, acknowledgement "The impact of..."
 
 * Be yourself! Let your personality come through and be confident. You got this!
 
