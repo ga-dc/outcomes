@@ -159,13 +159,21 @@ Homework due next Monday at 6 pm: [Final GA Profile](https://github.com/ga-dc/ou
 
 **UXDI:**
 
+* [Elise Ansher](http://eliseansher.com/)
+
+* [Kelli Spippola](https://www.kellisippola.com/)
+
+* [Sarah Robertson](https://www.sarahalexandra.me/)
+
 * [Acecia Thomas-Baker](http://www.acecia.design/)
 
-* [Colyn Irvine](http://www.colynirvine.com/)
+* [Kojo Boateng](http://www.kojoboateng.com/)
 
-* [Sharon Choi](https://www.sharonchoi.design/)
+* [Vianka Aloras](https://www.vianka.design/)
 
-* [Tim Rittenhouse](https://www.timrittenhouse.com/)
+* [Hareem Mannan](http://www.hareemm.com/)
+
+
 
 
 **DSI:**
