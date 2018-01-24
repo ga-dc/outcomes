@@ -150,11 +150,13 @@ Homework due next Monday at 6 pm: [Final GA Profile](https://github.com/ga-dc/ou
 
 * [Julia Schultz](http://jschultz.co/)
 
-* [Pamela Olney](https://pamelaolney.github.io/)
+* [Nick Oki](http://www.nicholasoki.com/)
 
 * [Megan Coyle](http://design.mcoyle.com/)
 
 * [Winston Davis McLean](https://zorba-strange.github.io/portfolio/)
+
+* [Eric Green](https://ericcgreen.github.io/)
 
 
 **UXDI:**
