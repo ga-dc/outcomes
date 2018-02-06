@@ -185,7 +185,7 @@ Class will provide feedback:
 
 Turn to your neighbor. One of you will be the student and one will be the employer.
 
-Students will practice negotiating for 10K more money. They’ve been offered 60K and they want 70K (5 minutes). Employers, your goal is to keep the number as low as possible, push back!
+Students will practice negotiating for 10K more money. They’ve been offered 65K and they want 70K (5 minutes). Employers, your goal is to keep the number as low as possible, push back!
 
 The employer will give feedback to the interviewee (5 minutes)
 
