@@ -169,7 +169,7 @@ Check Glassdoor, ask us, ask alumni, Google!
 
 ## We do (10/100)
 
-Volunteer practice negotiating. Student volunteer will have just been offered a position, at 60K and they want 70K.
+Volunteer practice negotiating. Student volunteer will have just been offered a position, at 65K and they want 70K.
 
 Class will provide feedback:
 
