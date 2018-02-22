@@ -16,7 +16,10 @@
 
 Are you dreading the technical interview?  Not sure what to expect or how to calm your nerves? Don’t worry as we will help you prepare to nail the interview and wow the employer!
 
-See Full Presentation:  [https://github.com/gmac/technical-interview](https://github.com/gmac/technical-interview)
+Presentation materials: 
+* [Ted's presentation notes](https://workflowy.com/s/BHZf.R42fBjfT6Q) 
+* [Repo of example questions](https://github.com/gmac/technical-interview) - Don't read this before class!  
+* [Job resources (job boards, salaries, interview advice, practice questions)](https://github.com/tedw/fed-resources/blob/master/README.md) 
 
 ## Further Reading/ Resources:
 
