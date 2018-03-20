@@ -140,7 +140,7 @@ Create your draft GA Profile. Remember that once your GA Profile is live, it is 
 The goal is to have your GA Profile be active and live as soon as possible, so use this time to create it.  Once you feel like you are ready to submit, have 3 peers review it. 
 
 ## Homework 
-Homework due next Monday at 6 pm: [Final GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md)
+Homework due next Monday at 6 pm: [GA Profile](https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md)
 
 ## Further Reading/ Resources:
 
